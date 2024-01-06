@@ -1,0 +1,88 @@
+:root {
+    color-scheme: light dark;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    body { background: #333; color: white; }
+  }
+  
+  @media (prefers-color-scheme: light) {
+    body { background: #ddd; color: black; }
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-container img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.buttons-container {
+    display: flex;
+}
+
+.icon-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.icon-button img {
+    width: 30px;
+    height: 30px;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.lyrics-section {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.controls {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+input, button {
+  padding: 10px;
+  margin: 0 5px;
+}
+
+.timeline {
+  margin-top: 20px;
+  height: 10px;
+  background-color: #ddd;
+  position: relative;
+}
+
+.timeline-indicator {
+  height: 10px;
+  width: 10px;
+  
+  background-color: green;
+  position: absolute;
+  top: 0;
+  transition: width 0.3s ease;
+}

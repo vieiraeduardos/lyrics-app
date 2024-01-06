@@ -1,0 +1,4682 @@
+[
+  {
+    "name": "Aline Barros",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/5/7/0/c570bc6a39ef159ca86eab7868fe1d55-tb4.jpg"
+  },
+  {
+    "name": "Ariana Grande",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/6/b/8/d6b8d1be4b02ee8049c21885985f6c3b-tb4.jpg"
+  },
+  {
+    "name": "Adele",
+    "gender": "Soul",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/a/d/4/7ad49aeb3a90ad1ecf53bd979e99a486-tb4.jpg"
+  },
+  {
+    "name": "Anderson Freire",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/7/1/b/b71b6bae3ec2070aa146d506c16b89f9-tb4.jpg"
+  },
+  {
+    "name": "Arctic Monkeys",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/6/e/f/f6ef67111b9736b66b7d5b848d6d8612-tb4.jpg"
+  },
+  {
+    "name": "Ana Castela",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/6/4/a/a64afae439650b8e38f1680bdd4784f7-tb4.jpg"
+  },
+  {
+    "name": "Avicii",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/6/b/0/96b0c0032206e09b5f4e30496f357d30-tb4.jpg"
+  },
+  {
+    "name": "Amado Batista",
+    "gender": "Brega",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/5/5/1/75516384f5233760cb9e02a736603e6c-tb4.jpg"
+  },
+  {
+    "name": "Anitta",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/5/8/8/3588f3436fc68e9478c80ecc553f0ff3-tb4.jpg"
+  },
+  {
+    "name": "ABBA",
+    "gender": "Disco",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/d/0/b/ad0bf0b5d8024dfbcd51229121f431ce-tb4.jpg"
+  },
+  {
+    "name": "Amanda Wanessa",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/4/2/b/a42b8090f48ee94c4f2fb4138f1baa62-tb4.jpg"
+  },
+  {
+    "name": "Akon",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/7/e/e/e7ee5aa466a766a2da7f5e4347ea5ec8-tb4.jpg"
+  },
+  {
+    "name": "Alceu Valen\u00e7a",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/2/c/7/62c7b80bb3eda1940f3285f213a54fc3-tb4.jpg"
+  },
+  {
+    "name": "Alicia Keys",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/1/a/e/81ae3cc9920d8a08a7f6fc5acd4a73d3-tb4.jpg"
+  },
+  {
+    "name": "ANAVIT\u00d3RIA",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/9/f/a/49fa61c1d742f9adbb3718b22104f48d-tb4.jpg"
+  },
+  {
+    "name": "Avenged Sevenfold",
+    "gender": "Hardcore",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/4/a/2/24a2a9f70334400c966c713095c46c9b-tb4.jpg"
+  },
+  {
+    "name": "Aerosmith",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/0/0/4/2004dad30edaf05db2bba8086f6eedcc-tb4.jpg"
+  },
+  {
+    "name": "Ana N\u00f3brega",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/3/8/2/33822e2b908142d9b44197a11942407f-tb4.jpg"
+  },
+  {
+    "name": "Alcione",
+    "gender": "Samba",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/f/e/a/8feaed78d6d3aaf3af7cd5574eba3553-tb4.jpg"
+  },
+  {
+    "name": "AC/DC",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/5/8/9/9589806b16f9cba855b64d2a24fdcb2a-tb4.jpg"
+  },
+  {
+    "name": "Ana Vilela",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/8/4/a/f84abbba2c4b34c2c651f89abf63b24d-tb4.jpg"
+  },
+  {
+    "name": "Alok",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/9/5/6/1956159da65aff51ef22847a15257ed6-tb4.jpg"
+  },
+  {
+    "name": "Avril Lavigne",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/4/5/c/a45ce1b0f4914875df2a14adce8a0e41-tb4.jpg"
+  },
+  {
+    "name": "Adora\u00e7\u00e3o e Adoradores",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/d/2/6/3d267f1fdaa587a713589f1a8a64f469-tb4.jpg"
+  },
+  {
+    "name": "a-ha",
+    "gender": "New Wave",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/4/a/7/b4a7465440db4f18bc01776b3ba468ec-tb4.jpg"
+  },
+  {
+    "name": "Ant\u00f4nia Gomes",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/c/6/9/7c696a236be4d290417f1803b763b0ea-tb4.jpg"
+  },
+  {
+    "name": "Armando Filho",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/0/3/a/403a30f9b1bc835ae0f5d57782e4efef-tb4.jpg"
+  },
+  {
+    "name": "Alessandro Vilas Boas",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/7/d/2/97d22ecd68dcf56179ccee900a66d59a-tb4.jpg"
+  },
+  {
+    "name": "Avi\u00f5es do Forr\u00f3",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/2/d/1/72d1cb73dccbf310584b1643a3925209-tb4.jpg"
+  },
+  {
+    "name": "Alan Walker",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/a/a/8/baa86fe72f942caaaa4c292712f25ef2-tb4.jpg"
+  },
+  {
+    "name": "Angra",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/1/d/541dd72626fed45a1650f24682640ac8-tb4.jpg"
+  },
+  {
+    "name": "Ana Paula Valad\u00e3o",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/c/4/3/fc43206cf40356fc9fd2ef7928f9187b-tb4.jpg"
+  },
+  {
+    "name": "aespa",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/5/7/f/f57fba0aec37a51691b1a24195636c34-tb4.jpg"
+  },
+  {
+    "name": "Asaph Borba",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/c/0/0/2c0060365ca0e60f916df4ffd58d6ebf-tb4.jpg"
+  },
+  {
+    "name": "Alisson e Neide",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/5/8/d/658d13317cdfd5f6cdf79daa95239ad6-tb4.jpg"
+  },
+  {
+    "name": "Amy Winehouse",
+    "gender": "Soul",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/6/c/d/96cd569f5373ed7cc817d50a30c6a49a-tb4.jpg"
+  },
+  {
+    "name": "BTS",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/0/9/b/709bbe520ed8c793a763ca4496c540ec-tb4.jpg"
+  },
+  {
+    "name": "Beyonc\u00e9",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/5/e/6/85e6d26fe1b4195218916024642fd27d-tb4.jpg"
+  },
+  {
+    "name": "Billie Eilish",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/0/4/b/004bd571f298cc8ea489a261b19012af-tb4.jpg"
+  },
+  {
+    "name": "The Beatles",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/7/b/d/d7bdb8738aa4d1cdfa9d39dbc75d2b12-tb4.jpg"
+  },
+  {
+    "name": "Bruno Mars",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/e/8/a/1e8a37de4b4da507a4ef5da85020c8e4-tb4.jpg"
+  },
+  {
+    "name": "Bruno e Marrone",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/4/a/7/e4a7eca99c8f6d5c4b7a1ea61dfe2899-tb4.jpg"
+  },
+  {
+    "name": "Bruna Karla",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/3/f/4/53f447f81a047078dfec643d9d3d8be1-tb4.jpg"
+  },
+  {
+    "name": "Borges",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/d/1/5/1d15fa41fab274430d24cef319529817-tb4.jpg"
+  },
+  {
+    "name": "Bon Jovi",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/e/3/6/de3631a1bf40a9bf525d5f6ac28f0927-tb4.jpg"
+  },
+  {
+    "name": "Bob Marley",
+    "gender": "Reggae",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/9/1/f/d91ffd780a8bb8fb21d138399fd05e88-tb4.jpg"
+  },
+  {
+    "name": "Belo",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/b/c/4/8bc4a5fbf7504c5b1c68d41545b3f6be-tb4.jpg"
+  },
+  {
+    "name": "BLACKPINK",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/6/b/a/86ba1f2d6aba2f55041f958e99ffe088-tb4.jpg"
+  },
+  {
+    "name": "Baco Exu do Blues",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/2/c/5f2cf0c620659662e2f35b3bbdf3d142-tb4.jpg"
+  },
+  {
+    "name": "Bee Gees",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/f/d/e/0fde9a6649f58f74f5d5489c78c067d4-tb4.jpg"
+  },
+  {
+    "name": "Belchior",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/e/c/e/4ece576d9b2394272e264fec4f67cea9-tb4.jpg"
+  },
+  {
+    "name": "Bad Bunny",
+    "gender": "Reggaeton",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/e/3/c/ce3c629b492833e0dc7a268a8c5c3454-tb4.jpg"
+  },
+  {
+    "name": "Bryan Adams",
+    "gender": "Soft Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/d/4/7/0d4713602546c651459a626648cf448f-tb4.jpg"
+  },
+  {
+    "name": "Banda Calypso",
+    "gender": "Brega",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/d/2/c/ad2c41ffb0bd55499bbf9b60aedc01cb-tb4.jpg"
+  },
+  {
+    "name": "Banda Som e Louvor",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/e/1/5/0e159de3db5dfc941a4484cd0e950b73-tb4.jpg"
+  },
+  {
+    "name": "Britney Spears",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/a/f/8/1af82e3f2f8c1260b7ffc764053f7ab1-tb4.jpg"
+  },
+  {
+    "name": "Black Eyed Peas",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/c/a/a/fcaa912167dfaca6837868f485dbd609-tb4.jpg"
+  },
+  {
+    "name": "Black Sabbath",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/4/a/0/f4a09b8fbdbc2719075c1e21f7d0be0d-tb4.jpg"
+  },
+  {
+    "name": "Backstreet Boys",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/7/5/d/775df7e69635c5a7b21b05c3898b6cc0-tb4.jpg"
+  },
+  {
+    "name": "Brandon Lake",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/1/3/0/613012f3eebca594a285f5fd88d43a75-tb4.jpg"
+  },
+  {
+    "name": "BK'",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/e/2/9/fe293f325ca754701a02412d03581fdd-tb4.jpg"
+  },
+  {
+    "name": "Bethel Music",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/a/7/4/9a748763ffae721e2512e2dad947fcf6-tb4.jpg"
+  },
+  {
+    "name": "Banda Magn\u00edficos",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/e/d/0/4ed084b7a397cac73ef0db240b20125b-tb4.jpg"
+  },
+  {
+    "name": "blink-182",
+    "gender": "Punk Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/8/e/f/58eff84efd4ac30ab4f76db29d85b961-tb4.jpg"
+  },
+  {
+    "name": "Bonnie Tyler",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/0/0/4/1004c7435746e2f3c583f48b4e99acae-tb4.jpg"
+  },
+  {
+    "name": "Billy Joel",
+    "gender": "Soft Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/4/c/a/34cac4c7aac5919651e733c0c45ab2f3-tb4.jpg"
+  },
+  {
+    "name": "Os Bar\u00f5es da Pisadinha",
+    "gender": "Piseiro",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/4/9/1/e491578e93012ccf2f367fd62426df1d-tb4.jpg"
+  },
+  {
+    "name": "Barbie",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/7/2/6/1726461f28caf13e781f94b68f8dd790-tb4.jpg"
+  },
+  {
+    "name": "Bob Dylan",
+    "gender": "Folk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/a/1/d/6a1d194e0cd5d02635bec1e49e90192d-tb4.jpg"
+  },
+  {
+    "name": "Beth Carvalho",
+    "gender": "Samba",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/c/3/3/9c338214befbac4aad199988c2402f4f-tb4.jpg"
+  },
+  {
+    "name": "Bring Me The Horizon",
+    "gender": "Emocore",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/4/7/e/c47e79d5cd6e1c260479722ccaac12ed-tb4.jpg"
+  },
+  {
+    "name": "Beatriz Andrade",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/6/2/4/462460df88be5481e7e92f0f9a3f8913-tb4.jpg"
+  },
+  {
+    "name": "Coldplay",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/b/7/a/bb7ae374cb7c6aefb0c6dea05363c767-tb4.jpg"
+  },
+  {
+    "name": "Cassiane",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/7/6/1/7761d9bc3679c84c33a031b331f57b29-tb4.jpg"
+  },
+  {
+    "name": "Chit\u00e3ozinho & Xoror\u00f3",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/5/f/e/45fe4c8dfbdd41350fe0bd2d17e0c8b3-tb4.jpg"
+  },
+  {
+    "name": "Cantor Crist\u00e3o",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/a/0/e/aa0e388156fcfcc35a4ebe704cb34f3b-tb4.jpg"
+  },
+  {
+    "name": "CCB - Congrega\u00e7\u00e3o Crist\u00e3 no Brasil",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/9/b/7/49b7a7247f879a381b54a6427c274be0-tb4.jpg"
+  },
+  {
+    "name": "Corinhos Evang\u00e9licos",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/c/c/c/ccccf2a8018a2d45b3b92b0dd41446eb-tb4.jpg"
+  },
+  {
+    "name": "Chris Brown",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/f/0/d/ef0d8ba221a74832288f92766b1f2b07-tb4.jpg"
+  },
+  {
+    "name": "Can\u00e7\u00e3o & Louvor",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/9/f/c/b9fc857bccd1b85e8e52940810705730-tb4.jpg"
+  },
+  {
+    "name": "Charlie Brown Jr.",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/a/c/c/8accc351a81471078ac4f66be25bf61e-tb4.jpg"
+  },
+  {
+    "name": "Caetano Veloso",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/a/8/5/3a852df5917814a20762d8ea755170ba-tb4.jpg"
+  },
+  {
+    "name": "Comunidade Cat\u00f3lica Shalom",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/4/a/1/44a192029684fcd89990fbc29859a2f2-tb4.jpg"
+  },
+  {
+    "name": "Chico Buarque",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/b/8/8/5b8880d71d7525db283ffa07a11648a0-tb4.jpg"
+  },
+  {
+    "name": "Chase Atlantic",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/b/e/7/abe7a65c62d4f1601bbcca6e3e3898cf-tb4.jpg"
+  },
+  {
+    "name": "Cantigas Populares",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/5/9/4/359479279ee5b0ae1d0df4c98754018e-tb4.jpg"
+  },
+  {
+    "name": "Can\u00e7\u00f5es de TFM",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/f/8/3/ff83a7ed8411fd8e6600b6b7d7db1fb3-tb4.jpg"
+  },
+  {
+    "name": "Camila Cabello",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/a/5/2/3a5270ea884ea31cf75013f729108bc2-tb4.jpg"
+  },
+  {
+    "name": "Comunidade Cat\u00f3lica Colo de Deus",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/b/0/1/cb01ae0406dbf7101548d400aa4c9450-tb4.jpg"
+  },
+  {
+    "name": "Creedence Clearwater Revival",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/6/5/7/26574cbaaa4e4a8fd62b9858a065141a-tb4.jpg"
+  },
+  {
+    "name": "Cazuza",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/f/4/8/1f489cc2597d4b305fbf59246c28d7c3-tb4.jpg"
+  },
+  {
+    "name": "Casa Worship",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/0/3/0/d03034cb2b5c94a2b86d9b02176349e4-tb4.jpg"
+  },
+  {
+    "name": "Chefin",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/f/6/b/bf6bff5ef5fb0c2c47cbe4685c3c97ec-tb4.jpg"
+  },
+  {
+    "name": "Calcinha Preta",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/0/0/4/3004f53f48849a584d318296a714ed8f-tb4.jpg"
+  },
+  {
+    "name": "C\u00e9line Dion",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/6/c/7/e6c7f8378f4efd8aacace313e9885b62-tb4.jpg"
+  },
+  {
+    "name": "Capital Inicial",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/1/f/f/b1ff4e4861ab04068f4405ec427cbf08-tb4.jpg"
+  },
+  {
+    "name": "Can\u00e7\u00e3o Nova",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/4/3/f/343f54fe1d2ca424f37933f5741ed133-tb4.jpg"
+  },
+  {
+    "name": "C\u00e1ssia Eller",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/1/3/8/a13871fcbc6d62922a825e868f73f6b0-tb4.jpg"
+  },
+  {
+    "name": "The Cranberries",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/9/c/0/69c0c8791bef749f3163281b4a7d42e2-tb4.jpg"
+  },
+  {
+    "name": "Cigarettes After Sex",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/c/e/e/5ceeba85520b7fa74e5fe4702c02afb9-tb4.jpg"
+  },
+  {
+    "name": "Chrystian & Ralf",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/d/4/4/cd444e1e1419860c549a46168b7c472b-tb4.jpg"
+  },
+  {
+    "name": "Casting Crowns",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/6/0/1/06015aa92bd45c2e7fc69e2986889d31-tb4.jpg"
+  },
+  {
+    "name": "Conan Gray",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/d/9/9/dd99762786d2a40470ab60c255749c16-tb4.jpg"
+  },
+  {
+    "name": "Calvin Harris",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/1/2/3/b123ff4cadc3f5d81e5f7b9b6461b658-tb4.jpg"
+  },
+  {
+    "name": "Cyndi Lauper",
+    "gender": "New Wave",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/4/4/f/744facfbd0232a7c1c644806ad69ac3f-tb4.jpg"
+  },
+  {
+    "name": "The Cure",
+    "gender": "G\u00f3tico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/0/f/5/40f5ea0aa1f7a5a973348671373f3f58-tb4.jpg"
+  },
+  {
+    "name": "Chiclete Com Banana",
+    "gender": "Ax\u00e9",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/6/c/3/36c3807f50b37136ce49d081da7083ec-tb4.jpg"
+  },
+  {
+    "name": "Cristiano Ara\u00fajo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/0/4/8/204892d0a491e8f34b5e5d783b7b43eb-tb4.jpg"
+  },
+  {
+    "name": "Diante do Trono",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/a/2/b/0a2b4c46209c361156aa7f435093f52b-tb4.jpg"
+  },
+  {
+    "name": "Damares",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/3/b/9/23b985739895483a6369b6ddf22b230b-tb4.jpg"
+  },
+  {
+    "name": "Drake",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/a/6/6/fa661213485b58837579fd312e40f3c2-tb4.jpg"
+  },
+  {
+    "name": "Disney",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/7/0/e/a70e0b92e4b802f54ae93f7ee498fb4b-tb4.jpg"
+  },
+  {
+    "name": "Doja Cat",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/9/1/4/a914389b3c57529cdd04b30b3158a364-tb4.jpg"
+  },
+  {
+    "name": "Daniel & Samuel",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/1/8/c/518cca0352b11979dab17c93c8552a4c-tb4.jpg"
+  },
+  {
+    "name": "Daniel Caesar",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/b/2/6/4b2610a160617c4e4712d1a6a34c7423-tb4.jpg"
+  },
+  {
+    "name": "Djavan",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/e/b/c/2ebc927a1d55a7aff4058491288ace6e-tb4.jpg"
+  },
+  {
+    "name": "Davi Sacer",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/9/9/d/b99dad2388d630e5179d4a15c2527f51-tb4.jpg"
+  },
+  {
+    "name": "David Quinlan",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/8/c/8/b8c8c726ed6562febe34eb4f7df4f68f-tb4.jpg"
+  },
+  {
+    "name": "Dua Lipa",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/2/0/4/1204047bc2c0a379ca963f756ae6a6f6-tb4.jpg"
+  },
+  {
+    "name": "Daniel",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/d/3/e/9d3eb01bf3e59b6e7d8f52e15667e7cc-tb4.jpg"
+  },
+  {
+    "name": "Demi Lovato",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/0/0/d/700dc5974e87ef641255d071df215b40-tb4.jpg"
+  },
+  {
+    "name": "Dalete Hungria",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/d/1/3/cd136fa212d1321d74109fa24ad1d891-tb4.jpg"
+  },
+  {
+    "name": "David Guetta",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/d/6/7/6d670712889ea7203e5071238f659443-tb4.jpg"
+  },
+  {
+    "name": "Djonga",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/0/3/d/003d30e25d1d643a24fc5b0046022605-tb4.jpg"
+  },
+  {
+    "name": "Dilsinho",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/f/0/4/ef044cb958ad3812b21d7d8f961884fd-tb4.jpg"
+  },
+  {
+    "name": "DJ Boy",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/a/d/d/2add2961ca7e9693029611f006fe8215-tb4.jpg"
+  },
+  {
+    "name": "Danielle Cristina",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/6/9/6/6696c80304b776fa9d81066c6cf31ba9-tb4.jpg"
+  },
+  {
+    "name": "Delacruz",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/3/3/8/03387da997d64db3478aa71a7145d5d2-tb4.jpg"
+  },
+  {
+    "name": "Dire Straits",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/2/e/f/32efbbffcc25126cee57cd0e01844617-tb4.jpg"
+  },
+  {
+    "name": "David Kushner",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/0/c/2/70c24a8dc8728363c7ae7a7c223a14fe-tb4.jpg"
+  },
+  {
+    "name": "David Bowie",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/7/f/5/97f565409408d249e12f85acd21a43f6-tb4.jpg"
+  },
+  {
+    "name": "Desejo de Menina",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/8/d/d/c8dd5f26e5984e56229f13f5a598f984-tb4.jpg"
+  },
+  {
+    "name": "Danny Gokey",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/3/b/8/43b88f3fd7b93244b9f5229b3a20e084-tb4.jpg"
+  },
+  {
+    "name": "Delino Mar\u00e7al",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/b/9/6/eb9680485b9a46465befe71eddb30d36-tb4.jpg"
+  },
+  {
+    "name": "Diego e Victor Hugo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/c/0/7/ac0779a0e056da0bdc0066315dd37770-tb4.jpg"
+  },
+  {
+    "name": "d4vd",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/5/6/1/e561c58d7067505a9bf7fd637dc77af6-tb4.jpg"
+  },
+  {
+    "name": "Dragon Ball",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/7/3/5473d4e6e4fc882eb603dc8b6bd5b5d6-tb4.jpg"
+  },
+  {
+    "name": "Dennis DJ",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/c/7/e/1c7e002c818b83c62122a1aeca2bb619-tb4.jpg"
+  },
+  {
+    "name": "Depeche Mode",
+    "gender": "New Wave",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/9/7/d/597db1b83bbd742b31ac5f1228acc517-tb4.jpg"
+  },
+  {
+    "name": "Deftones",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/f/b/3/cfb397b4661f822e78e68fd96aa2a72e-tb4.jpg"
+  },
+  {
+    "name": "The Doors",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/2/4/2/c24241a316184ef63475de007cc183d1-tb4.jpg"
+  },
+  {
+    "name": "Daniel Souza",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/9/b/5f9bfc6ec82ce85557fb14aa390049a7-tb4.jpg"
+  },
+  {
+    "name": "Dido",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/f/7/9/af7937c2a8806ee5232dc32371cf144d-tb4.jpg"
+  },
+  {
+    "name": "Destiny's Child",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/e/0/f/8e0f67bbccb9f27f5fe220c2733526b2-tb4.jpg"
+  },
+  {
+    "name": "Eminem",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/4/b/d/94bd708d422b16f91205fc70968d1b11-tb4.jpg"
+  },
+  {
+    "name": "Ed Sheeran",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/1/4/5/c1459fefc2f8e9298b389994f5d0a656-tb4.jpg"
+  },
+  {
+    "name": "Eli\u00e3 Oliveira",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/e/b/8/8eb864459cc25b5645d043bfe4c70e8c-tb4.jpg"
+  },
+  {
+    "name": "Eliane Fernandes",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/6/c/5/a6c53c26c8a4be0bc67aaa8419061431-tb4.jpg"
+  },
+  {
+    "name": "Eyshila",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/4/f/e/14fee894c507846bf24ee5cac1a596db-tb4.jpg"
+  },
+  {
+    "name": "Elton John",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/4/d/f/a4df5cf0fbd11ab269264d79ea01663c-tb4.jpg"
+  },
+  {
+    "name": "Elvis Presley",
+    "gender": "Rockabilly",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/9/7/5/097561932fe8c40ca50d460d912ec7fb-tb4.jpg"
+  },
+  {
+    "name": "Exaltasamba",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/c/4/f/8c4fbdd85fca2babb2d2c293b5ac6c8c-tb4.jpg"
+  },
+  {
+    "name": "Elevation Worship",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/d/e/9/7de9d33a8921765ea665c6139be3ba85-tb4.jpg"
+  },
+  {
+    "name": "Engenheiros do Hawaii",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/0/0/c/800cbdb761a8f3da9af2b6a54d459c28-tb4.jpg"
+  },
+  {
+    "name": "Eduardo Costa",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/a/e/2/5ae2426d13286ffb40be6548426ad4e3-tb4.jpg"
+  },
+  {
+    "name": "Elaine Martins",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/c/0/5/0c05699aba340a69db9ee13d50cc5e07-tb4.jpg"
+  },
+  {
+    "name": "Eliana Ribeiro",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/7/0/5/87053dde1c75d9bbf9b76fb5fe187beb-tb4.jpg"
+  },
+  {
+    "name": "Esther Fiaux",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/b/9/f/3b9f17c90a44412f1ff47a4f98316318-tb4.jpg"
+  },
+  {
+    "name": "Elaine de Jesus",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/9/f/1/29f1b90bbca7f15192098a2c8cbb2af8-tb4.jpg"
+  },
+  {
+    "name": "Eli Soares",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/3/0/3/c303051089889d2cf0ef66a89696a709-tb4.jpg"
+  },
+  {
+    "name": "Evanescence",
+    "gender": "G\u00f3tico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/7/b/8/c7b8f989886bdc774abbbe1b09955df9-tb4.jpg"
+  },
+  {
+    "name": "Elis Regina",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/0/b/a/b0ba8416edcf8850ba2389af6adac8d2-tb4.jpg"
+  },
+  {
+    "name": "Edith Whiskers",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/7/e/5/d7e50459afac3454c864b2c37f904dae-tb4.jpg"
+  },
+  {
+    "name": "Ellie Goulding",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/8/2/1/c82123da55ee89b6815e9f2a27a85403-tb4.jpg"
+  },
+  {
+    "name": "Emicida",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/2/1/f/121f32769b634106a82ea1605c73e69a-tb4.jpg"
+  },
+  {
+    "name": "Eric Clapton",
+    "gender": "Blues",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/a/5/b/aa5b69339a1f319cfa8ebf0cf5691d9b-tb4.jpg"
+  },
+  {
+    "name": "ENHYPEN",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/f/1/7/1f174a12b270547e371bb94343b8cb9c-tb4.jpg"
+  },
+  {
+    "name": "Edinaldo do Rio",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/a/2/6/0a26edf3feba9d7e69d10ad1a3c16a1e-tb4.jpg"
+  },
+  {
+    "name": "EA Sounds",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/5/5/3/d553a97b48a161975b02ca523b78840e-tb4.jpg"
+  },
+  {
+    "name": "Ex\u00e9rcito Brasileiro",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/7/7/8/57789f671e6c07419179df802e5f40e4-tb4.jpg"
+  },
+  {
+    "name": "Elias Silva",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/c/0/e/bc0e00e2498aa184c0a104cb8a07efa2-tb4.jpg"
+  },
+  {
+    "name": "Evoney Fernandes",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/8/f/9/78f9519f7c50cbc6ea8e80dd9b495ba1-tb4.jpg"
+  },
+  {
+    "name": "Eagles",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/0/4/54041c5c0c4f55cd0ccd3f23799cc403-tb4.jpg"
+  },
+  {
+    "name": "Enrique Iglesias",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/5/7/4/c574484ca7c5c234c72522d9469ca6c3-tb4.jpg"
+  },
+  {
+    "name": "EXO ",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/4/9/6/34965762d320316212e8eebd7070a821-tb4.jpg"
+  },
+  {
+    "name": "Eli\u00e9zer Rosa",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/7/e/f/a7ef869cbb65e9e37a0d7b8b8cfa7787-tb4.jpg"
+  },
+  {
+    "name": "Edson e Hudson",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/b/2/7/bb27c662a692b8affd38d0c351e7232e-tb4.jpg"
+  },
+  {
+    "name": "Enrolados",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/6/7/c/567c1b0b413c6a207a50261b2aa669e5-tb4.jpg"
+  },
+  {
+    "name": "Edson Gomes",
+    "gender": "Reggae",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/9/a/3/c9a3eb3de7cc67f0255fecf3ee7d6bbb-tb4.jpg"
+  },
+  {
+    "name": "Eric Ethridge",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/f/2/6/ef264de95c4d728d5dce52e8a5914735-tb4.jpg"
+  },
+  {
+    "name": "Fernandinho",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/0/5/3/e053e2dbf6fd2bd607ee173aec4c6361-tb4.jpg"
+  },
+  {
+    "name": "Fernanda Brum",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/3/c/c/43cc6ff7f157231af2c18dcf7fe22879-tb4.jpg"
+  },
+  {
+    "name": "Filipe Ret",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/e/8/f/3e8f098ceaddea08a3d48aa083ffc220-tb4.jpg"
+  },
+  {
+    "name": "Frank Sinatra",
+    "gender": "Jazz",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/6/f/9/76f9f2858cdd986d0a66a3b871f47f04-tb4.jpg"
+  },
+  {
+    "name": "Ferrugem",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/f/8/c/4f8ca763c015aaef2b1dd90eccde50f2-tb4.jpg"
+  },
+  {
+    "name": "Foo Fighters",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/7/f/9/37f92ba6cfc19c3116292411f246025f-tb4.jpg"
+  },
+  {
+    "name": "Fagner",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/b/1/6/8b16e3a64ae5275d1f8e6d23d52c83ab-tb4.jpg"
+  },
+  {
+    "name": "Florian\u00f3polis House Of Prayer (fhop music)",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/b/3/b/6b3b21c0aef2c64effaa345f169804d2-tb4.jpg"
+  },
+  {
+    "name": "Fundo de Quintal",
+    "gender": "Samba",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/d/9/b/6d9bcd87795ac12ae66464ebbd34376a-tb4.jpg"
+  },
+  {
+    "name": "Fabiana Anast\u00e1cio",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/8/6/e/f86e131f3b4246ac307ec1c8fcfb59ad-tb4.jpg"
+  },
+  {
+    "name": "Frozen",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/d/1/1/3d11035b10d6321917f08d0dc89d8efa-tb4.jpg"
+  },
+  {
+    "name": "The Fevers",
+    "gender": "Jovem Guarda",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/0/d/8/30d89a6235cf88c0ff6d44e89cf269d3-tb4.jpg"
+  },
+  {
+    "name": "Frank Ocean",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/8/7/9/887995164164d3dd96acd6794317ac39-tb4.jpg"
+  },
+  {
+    "name": "Frei Gilson",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/7/6/d/076df89e3e7609f2fae6ea503dc334fd-tb4.jpg"
+  },
+  {
+    "name": "Florence + The Machine",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/5/6/e/c56e393713620c526990d42fc8636ce5-tb4.jpg"
+  },
+  {
+    "name": "Felipe Amorim",
+    "gender": "Brega",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/3/e/e/43eec79875061a0c6079b7ad4d9985fd-tb4.jpg"
+  },
+  {
+    "name": "F\u00e1bio Jr.",
+    "gender": "Rom\u00e2ntico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/9/8/2/3982a422b0fecca4747ec8ff4d64de03-tb4.jpg"
+  },
+  {
+    "name": "Falc\u00e3o",
+    "gender": "Brega",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/e/3/6/ae36b8a2b650681ae182d471ca505fae-tb4.jpg"
+  },
+  {
+    "name": "Falamansa",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/6/5/2/565299654c15382f96ac7a7c7f6a86a9-tb4.jpg"
+  },
+  {
+    "name": "Flora Matos",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/e/2/6/4e263e98293781c1cc77f3f01110b5d7-tb4.jpg"
+  },
+  {
+    "name": "Fazendinha Sessions",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/9/e/2/19e2e41a9af538778ca6e14878c4a2ba-tb4.jpg"
+  },
+  {
+    "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/3/e/6/93e6fa7850f9be4023a4054a2896f75a-tb4.jpg"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/4/7/0/14705f9a3bf278808d518e0c339f2231-tb4.jpg"
+  },
+  {
+    "name": "Forrest Frank",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/0/0/a/100a4d11f5d0900234b1e789481cca03-tb4.jpg"
+  },
+  {
+    "name": "Fernando e Sorocaba",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/c/d/1/6cd14d1641385ad28924f39bd2f8f4e6-tb4.jpg"
+  },
+  {
+    "name": "Fl\u00e1vio Jos\u00e9",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/6/c/b/46cb3a694cfffe7e20e6d11ac20ea926-tb4.jpg"
+  },
+  {
+    "name": "Fogo No P\u00e9",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/e/1/7/ee170a956511ae6e1f9b6c793e0818eb-tb4.jpg"
+  },
+  {
+    "name": "Five Finger Death Punch",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/9/4/1/a9412520570eb94620ebfe8188ed8a66-tb4.jpg"
+  },
+  {
+    "name": "Fifth Harmony",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/7/8/f/f78fce8f0f249e1fd628b6b0798a1f9c-tb4.jpg"
+  },
+  {
+    "name": "Foster The People",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/a/3/d/9a3dc8be7ed32e25843afce723e46710-tb4.jpg"
+  },
+  {
+    "name": "Froid",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/2/b/9/c2b984b6c364340d8c99f6cc6fc6b8fb-tb4.jpg"
+  },
+  {
+    "name": "Flo Rida",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/f/6/a/3f6ae4e6bc6811a63e865e995c8a9704-tb4.jpg"
+  },
+  {
+    "name": "Future",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/1/6/c/716c5b694518501fda01399a4bfcbfa0-tb4.jpg"
+  },
+  {
+    "name": "Feliciano Amaral",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/b/2/3/5b2358265d7c628f2ec7723d284e4e12-tb4.jpg"
+  },
+  {
+    "name": "Frejat",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/e/d/6/4ed6bcacb32096bd0825daa66b81ab2d-tb4.jpg"
+  },
+  {
+    "name": "Flamengo",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/0/e/3/e0e38ccfe3f1dc637af0e7ce075b40f1-tb4.jpg"
+  },
+  {
+    "name": "Gabriela Rocha",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/d/b/0/8db0d1ac3efdb1b50400b5b1dba9ab73-tb4.jpg"
+  },
+  {
+    "name": "Gusttavo Lima",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/f/5/3/0f53abede4c52f73b9fd8f4fd0bc3900-tb4.jpg"
+  },
+  {
+    "name": "Gerson Rufino",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/1/2/5f120b57833913103b43329baa60786a-tb4.jpg"
+  },
+  {
+    "name": "Gabriel Guedes",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/c/c/c/dccc7b9e1e254fe1e7c2914469a837d4-tb4.jpg"
+  },
+  {
+    "name": "Guns N' Roses",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/1/6/5416d9ee2db3cf86b60997a55820c41a-tb4.jpg"
+  },
+  {
+    "name": "GREGO (BR)",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/c/8/1/2c811031e7687421ec0702bce278567f-tb4.jpg"
+  },
+  {
+    "name": "Grupo Revela\u00e7\u00e3o",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/f/2/1/3f21f632a9e245642fd8c40c117e1ac2-tb4.jpg"
+  },
+  {
+    "name": "Gabriela Gomes",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/6/4/7/764774ab5e5e96404a667fb8308a144b-tb4.jpg"
+  },
+  {
+    "name": "Gilberto Gil",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/b/1/d/bb1da3208ab269fca83e28f01f02f424-tb4.jpg"
+  },
+  {
+    "name": "Grupo Menos \u00c9 Mais",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/8/e/7/78e7814e92739c6383c1b47d949e96ce-tb4.jpg"
+  },
+  {
+    "name": "Gonzaguinha",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/6/5/c/a65cda7f56f6709bc707189499149e57-tb4.jpg"
+  },
+  {
+    "name": "Ghost",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/a/c/b/7acb8db72d4b2109bf2aca875747962e-tb4.jpg"
+  },
+  {
+    "name": "Green Day",
+    "gender": "Punk Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/4/c/8/74c8cd125ef0357df152667d49fb879b-tb4.jpg"
+  },
+  {
+    "name": "GIV\u0112ON",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/1/e/5/81e59d2d3f41ab71c5947dcef0bc9024-tb4.jpg"
+  },
+  {
+    "name": "Gustavo Mioto",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/5/9/a/859ae6712d3bbf8cf3c70279bcd4b7b0-tb4.jpg"
+  },
+  {
+    "name": "Gloria Groove",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/9/8/e/f98e37a55c13c76605307832a65dfcc5-tb4.jpg"
+  },
+  {
+    "name": "George Michael",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/5/f/0/15f0ec4a6ae0aabf2295312ff593fe6d-tb4.jpg"
+  },
+  {
+    "name": "Grupo Pixote",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/0/f/0/20f09c5f93f8c666eeb66ced086caf1a-tb4.jpg"
+  },
+  {
+    "name": "Gorillaz",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/c/e/8/0ce864930a2d1f212c7fc092851a3020-tb4.jpg"
+  },
+  {
+    "name": "Gal Costa",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/e/a/0/dea016286d794a4640c99064f94c0dca-tb4.jpg"
+  },
+  {
+    "name": "Gino e Geno",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/d/2/4/3d24332a3261e39aa34b8f1a4a053f25-tb4.jpg"
+  },
+  {
+    "name": "Gabi Sampaio",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/9/3/0/993051a2d85123aecda17a1238f83e74-tb4.jpg"
+  },
+  {
+    "name": "G.R.E.S. Acad\u00eamicos do Salgueiro (RJ)",
+    "gender": "Samba Enredo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/6/a/e/96aea9e0cbec99580b1a73c318a37fc7-tb4.jpg"
+  },
+  {
+    "name": "Giselli Cristina",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/0/3/e/103ec87171a45f956883b596d28b1d15-tb4.jpg"
+  },
+  {
+    "name": "Goo Goo Dolls",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/4/f/8/14f89e7c3b1b4814a989831c3fdb16db-tb4.jpg"
+  },
+  {
+    "name": "Guilherme e Benuto",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/0/0/b/d00be6a60ac02bce4522bff091728689-tb4.jpg"
+  },
+  {
+    "name": "Gian e Giovani",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/3/c/6/93c6534ab892af211b0c87cbb32351fd-tb4.jpg"
+  },
+  {
+    "name": "Gisele Nascimento",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/a/c/f/bacf4380ab2d4e878c0e4a8a8f5607bd-tb4.jpg"
+  },
+  {
+    "name": "Galinha Pintadinha",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/4/7/1/64717ff057481edc011b85d45a8cf63a-tb4.jpg"
+  },
+  {
+    "name": "G-Eazy",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/a/2/4/0a240e80e38532487358e8da91cd6928-tb4.jpg"
+  },
+  {
+    "name": "Glee",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/c/a/2/1ca21f8ebae3bf7678ea31c221711506-tb4.jpg"
+  },
+  {
+    "name": "GIULIA BE",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/d/c/d/edcd73103854f3da681cae5025f4a266-tb4.jpg"
+  },
+  {
+    "name": "Guilherme Silva",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/6/9/e/269ec3d09c590331d1ba0739c7187448-tb4.jpg"
+  },
+  {
+    "name": "Gilsons",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/e/0/a/2e0a4857d787fc68f02ecfbee5427370-tb4.jpg"
+  },
+  {
+    "name": "G.R.E.S. Mocidade Independente de Padre Miguel (RJ)",
+    "gender": "Samba Enredo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/6/3/8/b6389fc7e38ff9b6497aeda9919496f8-tb4.jpg"
+  },
+  {
+    "name": "Gabriel O Pensador",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/d/4/f/5d4f26196d6c85c3adf5549c4136f894-tb4.jpg"
+  },
+  {
+    "name": "Harpa Crist\u00e3",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/0/8/3/3083b1621a661eee9c2eb4ef9d03daa5-tb4.jpg"
+  },
+  {
+    "name": "Henrique e Juliano",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/f/0/6/8f0603b942e51fcd335fddde828b62cc-tb4.jpg"
+  },
+  {
+    "name": "Hinos Avulsos CCB",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/d/4/b/2d4b0f0c7fc60a15b4ca205ce2e192f9-tb4.jpg"
+  },
+  {
+    "name": "Hinos de Pa\u00edses",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/9/7/0/f970d889b58cab5fb0491a0ba513dd54-tb4.jpg"
+  },
+  {
+    "name": "Harry Styles",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/2/1/c/a21c349cb3188e66859b59faebea001a-tb4.jpg"
+  },
+  {
+    "name": "Hin\u00e1rio Adventista",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/4/f/d/34fdf7debb95bb57c850bcd454b94c5d-tb4.jpg"
+  },
+  {
+    "name": "Hillside Recording",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/5/5/b/e55bc574f392cc405e70355edc14ecd7-tb4.jpg"
+  },
+  {
+    "name": "Hungria Hip Hop",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/b/6/6/8b66e928c1b402abcab7d7d0ddb4213b-tb4.jpg"
+  },
+  {
+    "name": "Hillsong United",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/d/d/6/3dd6f05059e1fa5009798a4394ae70d3-tb4.jpg"
+  },
+  {
+    "name": "Hozier",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/8/2/5/88250d5c714651827e0c2bafe06215eb-tb4.jpg"
+  },
+  {
+    "name": "Hillsong Worship",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/3/1/d/d31d5f94ab7b9c186ca5ea743f543234-tb4.jpg"
+  },
+  {
+    "name": "Hin\u00e1rio Aleluia",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/0/5/7/0057dc5faec34746f0cb8f800e938d1b-tb4.jpg"
+  },
+  {
+    "name": "Halsey",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/c/a/2/8ca27cadc3de01cf16b8c68428e7f1b7-tb4.jpg"
+  },
+  {
+    "name": "Hans Zimmer",
+    "gender": "Cl\u00e1ssico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/a/d/6/6ad6f1c301648069be7256ab25266b2c-tb4.jpg"
+  },
+  {
+    "name": "Hugo e Guilherme",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/8/5/5485705809655e578654680ca3e13b79-tb4.jpg"
+  },
+  {
+    "name": "Hollow Coves",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/4/6/c/b46ccda94b8cc8d8330428c2ee6b09b2-tb4.jpg"
+  },
+  {
+    "name": "Helo\u00edsa Rosa",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/8/2/d/082d3648f96319da5fea2c99d8afeb32-tb4.jpg"
+  },
+  {
+    "name": "Hinos de Cidades",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/7/d/2/57d21374b35c47410669b13920016203-tb4.jpg"
+  },
+  {
+    "name": "Hulvey",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/5/f/8/55f879e499c42cb3ffd09d8454776170-tb4.jpg"
+  },
+  {
+    "name": "Hinos de Futebol",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/8/4/7/f8477ff4fee882ad515ac7c5fb98b195-tb4.jpg"
+  },
+  {
+    "name": "H.E.R.",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/c/4/c/6c4c60a76c0112e4c9d65cc16909b544-tb4.jpg"
+  },
+  {
+    "name": "Humbe",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/6/8/8/c6886ac937edc859de40136605fcc02f-tb4.jpg"
+  },
+  {
+    "name": "Hinos de Estados",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/2/d/4/32d4e575f079db89171e5501677d8295-tb4.jpg"
+  },
+  {
+    "name": "Hinos",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/3/8/d/d38d05e5df244df9ddc01109e4e25efa-tb4.jpg"
+  },
+  {
+    "name": "Hinos e Marchas Militares",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/7/8/2/97826c09c91b89f21f103360b1bb5345-tb4.jpg"
+  },
+  {
+    "name": "Hoobastank",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/a/7/c/5a7c48efd4c107a3f07829cc94c39257-tb4.jpg"
+  },
+  {
+    "name": "Hora de Aventura",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/6/d/1/76d1dc110215cf15bee67cf32c9bf3c6-tb4.jpg"
+  },
+  {
+    "name": "Hillsong Young & Free",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/4/1/6/24163e827c386befc9eefcfc4cd9fdce-tb4.jpg"
+  },
+  {
+    "name": "Henry Freitas",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/e/e/1/2ee10ec71b05f4403c225df7dce58d95-tb4.jpg"
+  },
+  {
+    "name": "Haikaiss",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/c/d/a/9cda16003b9d64769b6027c9b32c134a-tb4.jpg"
+  },
+  {
+    "name": "Haddaway",
+    "gender": "Dance",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/7/7/6/d7769a988596f34012e6aea7d6e59221-tb4.jpg"
+  },
+  {
+    "name": "Helloween",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/5/2/9/0529017e72cef3957bcad01c880b507c-tb4.jpg"
+  },
+  {
+    "name": "Heitor Costa",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/4/7/9/9479745acfe2193341e7091b10070fc3-tb4.jpg"
+  },
+  {
+    "name": "Henrique Mendon\u00e7a",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/0/c/b/a0cb3ab4fc29099f0c4e43422316a87f-tb4.jpg"
+  },
+  {
+    "name": "Hugo Pena e Gabriel",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/d/0/0/0d00f0adf28f2ec2cc611f7222375250-tb4.jpg"
+  },
+  {
+    "name": "Hin\u00e1rio Presbiteriano Novo C\u00e2ntico",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Isadora Pompeo",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/7/1/4/57146603ee14ff67d21780b0b2c64f09-tb4.jpg"
+  },
+  {
+    "name": "i\u00f1igo quintero",
+    "gender": "Rom\u00e2ntico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/1/8/e/e18e5d538c728fa73e0b04e9e3642da4-tb4.jpg"
+  },
+  {
+    "name": "Isa\u00edas Saad",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/c/f/2/1cf2e154e0f9bef69f5bb015e4878d35-tb4.jpg"
+  },
+  {
+    "name": "Imagine Dragons",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/4/8/3/14831730df19f827d1fc7bac7f012a81-tb4.jpg"
+  },
+  {
+    "name": "Igreja Crist\u00e3 Maranata",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/a/4/1/5a414085bfa16585f321554c18287a50-tb4.jpg"
+  },
+  {
+    "name": "Ivete Sangalo",
+    "gender": "Ax\u00e9",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/5/f/a/f5faf7185eead4f0fc46ea92d2941505-tb4.jpg"
+  },
+  {
+    "name": "Os Incr\u00edveis",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/e/b/f/0ebf8854494a0e6b4860fedd9bfa1976-tb4.jpg"
+  },
+  {
+    "name": "Irm\u00e3o L\u00e1zaro",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/7/4/9/77490f97e8ef86e3d31c0b56b5c242d7-tb4.jpg"
+  },
+  {
+    "name": "Iron Maiden",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/d/d/7/6dd7c2db3148744515bea26790a87c21-tb4.jpg"
+  },
+  {
+    "name": "Iguinho e Lulinha",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/3/b/8/33b81204cc83c6d349e5c36bfb841d30-tb4.jpg"
+  },
+  {
+    "name": "In Paradise",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Israel & Rodolffo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/8/7/c/887cf6bce89306960f91e7e06a353abf-tb4.jpg"
+  },
+  {
+    "name": "Israel Salazar",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/e/5/6/3e56347ac5db5a5ccf6db8642072fb72-tb4.jpg"
+  },
+  {
+    "name": "Ivonaldo Albuquerque",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/b/c/c/3bcc155e28c9f9cc07af1deda87524ea-tb4.jpg"
+  },
+  {
+    "name": "IZA",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/c/8/2/7c82107c3baa53417c1eb7c605ba65ab-tb4.jpg"
+  },
+  {
+    "name": "Icona Pop",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/b/a/d/cbadeb1ac2ae051063c83ca594e36da1-tb4.jpg"
+  },
+  {
+    "name": "IVE",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/f/9/d/cf9dd896851c07dba42145e626c0e792-tb4.jpg"
+  },
+  {
+    "name": "Indila",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/d/2/0/2d20d38db76b57a591628bfdb8f6712b-tb4.jpg"
+  },
+  {
+    "name": "Ivan Lins",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/0/a/8/c0a8dbd83819896f2adf854f3a6ba65e-tb4.jpg"
+  },
+  {
+    "name": "ITZY",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/4/b/2/64b25a37d59dffe88786d2d55242e093-tb4.jpg"
+  },
+  {
+    "name": "Ir. Kelly Patr\u00edcia",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/d/6/3/6d63e895b973368c143ea7b4ad7e81e8-tb4.jpg"
+  },
+  {
+    "name": "Ikaro Og\u00e3n",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Israel Kamakawiwo'ole",
+    "gender": "Surf Music",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/5/d/f/25dff834bc5750c6701ca7c56ab6a429-tb4.jpg"
+  },
+  {
+    "name": "INXS",
+    "gender": "New Wave",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/f/8/8/2f8895b41c2f5b0b8a8195b2add902a6-tb4.jpg"
+  },
+  {
+    "name": "Israel Subir\u00e1",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/e/b/f/1ebf37c9eac651b68be72c756e78ab77-tb4.jpg"
+  },
+  {
+    "name": "Ira!",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/1/2/7/11271b1ec3fa2cc7a480dcd38604a3b5-tb4.jpg"
+  },
+  {
+    "name": "Intocable",
+    "gender": "Corridos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/6/f/4/96f446e67bf6c682a4136a222d0488aa-tb4.jpg"
+  },
+  {
+    "name": "Iggy Azalea",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/8/3/b/c83bffa58c6f10645391f9d54675c85f-tb4.jpg"
+  },
+  {
+    "name": "ImaginaSamba",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/c/8/5/cc85895ae430768f0991fbe65063bce8-tb4.jpg"
+  },
+  {
+    "name": "Ice Cube",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/6/2/f/e62f58b8ff6f792ba21025e01e142190-tb4.jpg"
+  },
+  {
+    "name": "Ivandro",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/b/f/c/ebfc9d88b12dded1cb55f50a11f5bf81-tb4.jpg"
+  },
+  {
+    "name": "Isabel LaRosa",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/1/1/2/711277db202e011db2594f7aabb14f28-tb4.jpg"
+  },
+  {
+    "name": "IVYSON",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/8/a/7/e8a72796d07c10a513552b529ceea390-tb4.jpg"
+  },
+  {
+    "name": "Igreja Adventista do S\u00e9timo Dia",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/f/4/7/3f4782a691f4b5986ea9f9697010a16d-tb4.jpg"
+  },
+  {
+    "name": "Ipalpha",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/9/2/7/09273b97123ca755767feb75cdd1a8a9-tb4.jpg"
+  },
+  {
+    "name": "Il Divo",
+    "gender": "Cl\u00e1ssico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/1/1/8/71186ed620ae06cf5059157f1df37114-tb4.jpg"
+  },
+  {
+    "name": "Justin Bieber",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/5/6/0/7560b404d7f8ed34bb64a96e235f48eb-tb4.jpg"
+  },
+  {
+    "name": "Jorge & Mateus",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/4/e/0/64e02ba675aa7ec22bac569f87f23190-tb4.jpg"
+  },
+  {
+    "name": "Jungkook (BTS)",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/1/8/a/318aeb3d8b20a8fd56892525f3d43db2-tb4.jpg"
+  },
+  {
+    "name": "James Arthur",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/3/1/f/131f6c822e38ff59eb651aca032c9295-tb4.jpg"
+  },
+  {
+    "name": "Jefferson & Suellen",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/7/d/e/47de1ec1d4affbd00a898497fcc9a8bc-tb4.jpg"
+  },
+  {
+    "name": "Jordan Feliz",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/8/d/3/68d3c92ce6e34b078ef358164b6426b9-tb4.jpg"
+  },
+  {
+    "name": "Justin Timberlake",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/4/7/0/247026bfee31c580b82f6cae9f28c250-tb4.jpg"
+  },
+  {
+    "name": "Julia Vit\u00f3ria",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/4/9/0/e490fce0a1a13aad41f6555b34de3a51-tb4.jpg"
+  },
+  {
+    "name": "Jo\u00e3o Carreiro & Capataz",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/d/8/b/5d8be2bbd34232f4285a9994e1588df3-tb4.jpg"
+  },
+  {
+    "name": "J\u00e3o",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/6/6/8/06687915e63a9c882639dc67a166508b-tb4.jpg"
+  },
+  {
+    "name": "Jorge Arag\u00e3o",
+    "gender": "Samba",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/0/7/6/9076b6e034abc0bae64c063cc282e674-tb4.jpg"
+  },
+  {
+    "name": "Jack Johnson",
+    "gender": "Surf Music",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/9/1/1/f911b6d67b033423d127eecb93149073-tb4.jpg"
+  },
+  {
+    "name": "J. Neto",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/2/9/3/b293cced386b1da14193f99486669f69-tb4.jpg"
+  },
+  {
+    "name": "Jo\u00e3o Gomes",
+    "gender": "Piseiro",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/8/7/a/387ab9b871ced5caf16e909d6958e951-tb4.jpg"
+  },
+  {
+    "name": "Jota Quest",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/e/1/1/7e111a46d46c471cc477f8f2c9be0753-tb4.jpg"
+  },
+  {
+    "name": "Juliana D Passos (Canal Macumbaria)",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/2/a/7/22a7cdade03cba65466c18b8368eb491-tb4.jpg"
+  },
+  {
+    "name": "Jess\u00e9 Aguiar",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/8/2/c/a82c76712776ad2161190cce65c03486-tb4.jpg"
+  },
+  {
+    "name": "Jason Mraz",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/7/b/b/67bbee0e4690ffdd090c2fda1cca7040-tb4.jpg"
+  },
+  {
+    "name": "John Lennon",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/c/5/7/cc5781ec76634979f9151d8efe000a44-tb4.jpg"
+  },
+  {
+    "name": "Jake Scott",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/c/4/2/5c421e153174eb0b19a29c8141830241-tb4.jpg"
+  },
+  {
+    "name": "Johnny Cash",
+    "gender": "Folk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/a/8/8/3a8866bc646430eb714dc1d005d9f48c-tb4.jpg"
+  },
+  {
+    "name": "Junior (Gospel)",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/3/b/f/c3bff7bc2928df7ecba0b1fe2246892d-tb4.jpg"
+  },
+  {
+    "name": "John Mayer",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/a/d/3/ead31ae5cdff169843e6340e99f371b8-tb4.jpg"
+  },
+  {
+    "name": "Joji",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/9/3/5/6935a29944d351ae516b3066b26ea156-tb4.jpg"
+  },
+  {
+    "name": "Jaymes Young",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/1/7/b/517b42cb7f74dd3b26046cd066745adb-tb4.jpg"
+  },
+  {
+    "name": "John Legend",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/e/6/3/ce6354ac43f7b006a3d039b00ff36bb3-tb4.jpg"
+  },
+  {
+    "name": "Juice WRLD",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/f/5/a/0f5a5ea7813786edfa676e1cbcdd3774-tb4.jpg"
+  },
+  {
+    "name": "James Blunt",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/6/f/c/76fc8aff3f45e07bc4454990778c0b13-tb4.jpg"
+  },
+  {
+    "name": "Jo\u00e3o Mineiro e Marciano",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/4/2/0/64201b897f3e593186faff4435f02059-tb4.jpg"
+  },
+  {
+    "name": "Joelma",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/0/7/5/907530665768f9a785b08af2e416a131-tb4.jpg"
+  },
+  {
+    "name": "Jo\u00e3o Paulo e Daniel",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/c/d/8/0cd893b15b0b81b129b90fc743dd5279-tb4.jpg"
+  },
+  {
+    "name": "Jo\u00e3o Carreiro",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/b/a/c/0bacc883694163a831b756e346a0cfb0-tb4.jpg"
+  },
+  {
+    "name": "Jimin (BTS)",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/9/b/3/99b358e1565d99a97398576607e54572-tb4.jpg"
+  },
+  {
+    "name": "Jair Pires",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/3/0/1/53019f4db86537e2bd1da576c5f9950a-tb4.jpg"
+  },
+  {
+    "name": "Jorge Ben Jor",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/2/1/f/621f9ab3db4c6fbade521caeebefecc5-tb4.jpg"
+  },
+  {
+    "name": "JVKE",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/b/b/c/bbbcfcefc16089dc814a18a7cb5ade55-tb4.jpg"
+  },
+  {
+    "name": "Kanye West",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/1/f/3/e1f3eced58fd9e9ad79b3331e5cbf9d8-tb4.jpg"
+  },
+  {
+    "name": "Kellen Byanca",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/3/a/3/c3a39933b9bf1713a435453a8f3283e1-tb4.jpg"
+  },
+  {
+    "name": "Kailane Frauches",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/0/2/6/1026157b685baab0e76ee4bbe20a8b66-tb4.jpg"
+  },
+  {
+    "name": "Katy Perry",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/6/d/f/c6dfcff1a12fce910674abc585fef963-tb4.jpg"
+  },
+  {
+    "name": "Kleber Lucas",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/a/b/9/2ab91adccd4dca5032be2fef88b897ff-tb4.jpg"
+  },
+  {
+    "name": "Kemuel",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/e/2/e/0e2e6ca1cd7c0e14795bade7e214728d-tb4.jpg"
+  },
+  {
+    "name": "Kendrick Lamar",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/3/7/0/d37066bbb6f2f4f8f4e76227d67e0126-tb4.jpg"
+  },
+  {
+    "name": "KAROL G",
+    "gender": "Reggaeton",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/f/8/8/9f88778f803063054acd71802430d72f-tb4.jpg"
+  },
+  {
+    "name": "Kid Abelha",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/b/7/b/2b7b937162cec01b47a420ccc5a63f35-tb4.jpg"
+  },
+  {
+    "name": "Kemilly Santos",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/b/3/e/eb3e024c54ee86dcb63bccc31d7930f7-tb4.jpg"
+  },
+  {
+    "name": "Kali Uchis",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/f/1/7/4f1708a5140978d097179b9a93ac936d-tb4.jpg"
+  },
+  {
+    "name": "k a m a i t a c h i",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/2/6/1/c2616159f794035611e60ab1560c6a93-tb4.jpg"
+  },
+  {
+    "name": "KayBlack",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/6/c/4/36c4813f9cfbb2ad2873876b5b6da3a2-tb4.jpg"
+  },
+  {
+    "name": "Keane",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/a/2/d/5a2d092b5c8dd1a5c5477bd7a0e334f9-tb4.jpg"
+  },
+  {
+    "name": "Kansas",
+    "gender": "Rock Progressivo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/d/d/5/edd577682b936120cdc00f8c4e46f6f8-tb4.jpg"
+  },
+  {
+    "name": "KISS",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/0/e/d/70edc42302cf43c6bb4a7f23f36270e9-tb4.jpg"
+  },
+  {
+    "name": "The Killers",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/2/3/0/223001b504f53692023fd746908d335a-tb4.jpg"
+  },
+  {
+    "name": "KoRn",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/e/5/e/1e5e3a200a4e9e1dabee33b3e134da2e-tb4.jpg"
+  },
+  {
+    "name": "Kirk Franklin",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/3/b/9/73b91dc41215ee9f2e237313f84101df-tb4.jpg"
+  },
+  {
+    "name": "KLB",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/f/6/4/ff643a1d481e170708f9c0ecb7fa0331-tb4.jpg"
+  },
+  {
+    "name": "Kaash Paige",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/c/4/a/9c4abf86b24868d077354a7b9bd82ad3-tb4.jpg"
+  },
+  {
+    "name": "Kodaline",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/e/b/0/3eb0845b15cec9db378dfd52f83647d8-tb4.jpg"
+  },
+  {
+    "name": "Kelly Clarkson",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/1/b/2/31b230014abbad3b5279ad188602a351-tb4.jpg"
+  },
+  {
+    "name": "Kings Of Leon",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/8/f/a/68fad65320335f34a85f1ee56545de02-tb4.jpg"
+  },
+  {
+    "name": "Khalid",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/8/2/4/38249f93bd605612bba63070abb4f40e-tb4.jpg"
+  },
+  {
+    "name": "Kiara Vit\u00f3ria",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/d/9/4/2d94d384a0193c505bb64ebdc96e9137-tb4.jpg"
+  },
+  {
+    "name": "Kool And The Gang",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/f/a/9/1fa9d1e3034f35adcfbd22cc118b4383-tb4.jpg"
+  },
+  {
+    "name": "King Gnu",
+    "gender": "J-Pop/J-Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/e/e/2/1ee217c46bf471bd64bb7ad1150f40eb-tb4.jpg"
+  },
+  {
+    "name": "The Kid LAROI",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/9/f/6/59f6e37ba91a1c12d432f9682b57b7c6-tb4.jpg"
+  },
+  {
+    "name": "Kate Bush",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/e/1/5/2e15a0f5704f50321c4a0c7d4e93dffe-tb4.jpg"
+  },
+  {
+    "name": "Kaleb & Josh",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/9/e/1/39e15891ce6fcdd728ae167a94d8f1af-tb4.jpg"
+  },
+  {
+    "name": "Katya Lel'",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Katinguel\u00ea",
+    "gender": "Samba",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/7/b/8/27b880e53e3efe4c2089740b83ceb39f-tb4.jpg"
+  },
+  {
+    "name": "Kaleo",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/1/5/1/e151f19bd2eea8bad16dec58fabcf6f5-tb4.jpg"
+  },
+  {
+    "name": "Keyshia Cole",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/b/b/0/1bb05801bfc23520bf66476feacd9dba-tb4.jpg"
+  },
+  {
+    "name": "Kadu Martins",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/1/c/9/71c9dd1acd16397de15aa5ac5b79764c-tb4.jpg"
+  },
+  {
+    "name": "Lana Del Rey",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/1/3/b/213b739c1418a77f39d4719787d6a03d-tb4.jpg"
+  },
+  {
+    "name": "Luan Santana",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/d/6/f/9d6fe6e7a013aea299d1bdea3066e083-tb4.jpg"
+  },
+  {
+    "name": "Lady Gaga",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/a/7/5/ca75be3fd44a7ac639d50c6794839ee8-tb4.jpg"
+  },
+  {
+    "name": "Lu\u00edsa Sonza",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/3/c/e/13cedc07a5282ea09bd88039f342f9fd-tb4.jpg"
+  },
+  {
+    "name": "Legi\u00e3o Urbana",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/d/6/f/6d6fa97176b534f832b9befb757f0072-tb4.jpg"
+  },
+  {
+    "name": "Lauriete",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/5/5/4/85543ee4652a35857354141593aa5825-tb4.jpg"
+  },
+  {
+    "name": "Linkin Park",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/9/c/b/69cb4983159e2b9ece127fa43d30fede-tb4.jpg"
+  },
+  {
+    "name": "Leandro & Leonardo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/8/9/5f89f0ec2f7c3c72d2df19cb07ad7cfe-tb4.jpg"
+  },
+  {
+    "name": "L7NNON",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/5/a/d/35ad6cc9020afde86fc137e6e07c6cb3-tb4.jpg"
+  },
+  {
+    "name": "Lauana Prado",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/1/d/c/71dc84bf43244ac209ce54bf6fa0c362-tb4.jpg"
+  },
+  {
+    "name": "Luiz Gonzaga",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/b/a/6/bba618aabf46388f1679f4fab184e96b-tb4.jpg"
+  },
+  {
+    "name": "LUDMILLA",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/b/0/4/5b0454c798be819bdcc6a7c35873cbbb-tb4.jpg"
+  },
+  {
+    "name": "Lewis Capaldi",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/4/d/4/74d4a5e24f77699fcdc165e926373f25-tb4.jpg"
+  },
+  {
+    "name": "Led Zeppelin",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/7/e/3/47e3b5388d8e851c79a64c774245fe74-tb4.jpg"
+  },
+  {
+    "name": "Lil Peep",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/9/d/4/d9d4c9b1984eddc9b15528661a05cf0f-tb4.jpg"
+  },
+  {
+    "name": "Lulu Santos",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/b/e/9/ebe93de7953ffa7dff7836985221b8e5-tb4.jpg"
+  },
+  {
+    "name": "Laura Souguellis",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/f/6/9/ef6967605753c5f06bc943ccb56fba57-tb4.jpg"
+  },
+  {
+    "name": "Ludmila Ferber",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/4/a/8/84a89a0d328acf81e76aff3fb4ea56b7-tb4.jpg"
+  },
+  {
+    "name": "Leonardo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/9/7/5497463a77426125eb478beda175c7fb-tb4.jpg"
+  },
+  {
+    "name": "L\u00e9o Santana",
+    "gender": "Ax\u00e9",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/5/e/9/95e9094574f4cf4387980f1f68ddfa08-tb4.jpg"
+  },
+  {
+    "name": "Larissa Pires",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/a/a/b/2aab3a553e0833ec2e0977e3c2e6b19f-tb4.jpg"
+  },
+  {
+    "name": "Leandro Borges",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/9/e/9/39e9095358c25ab0d21c971a04002b35-tb4.jpg"
+  },
+  {
+    "name": "Laura Pausini",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/7/a/b/a7ab909ededf7d4b20d23f48bf491bb3-tb4.jpg"
+  },
+  {
+    "name": "L\u00e9a Mendon\u00e7a",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/f/5/6/ef5652c683447628ac5faf710022eb56-tb4.jpg"
+  },
+  {
+    "name": "Labrinth",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/9/1/a/b91a0a22353a2c8f841a869bc3ab08c1-tb4.jpg"
+  },
+  {
+    "name": "Lauren Daigle",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/8/2/e/982e2020ba2e3e37c8178a3840ee56f8-tb4.jpg"
+  },
+  {
+    "name": "Lah Pat",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/e/f/1/def1b514fe023f3243bb93386d59cf10-tb4.jpg"
+  },
+  {
+    "name": "Luiz de Carvalho",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/3/f/0/c3f08a3bb203b21586b1a3c914c1bf9a-tb4.jpg"
+  },
+  {
+    "name": "Lorde",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/0/2/d/d02dcab2665606301f5e4b2bbd0ab44e-tb4.jpg"
+  },
+  {
+    "name": "Little Mix",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/f/e/f/9fef832b1007c333e4fb12839f77f303-tb4.jpg"
+  },
+  {
+    "name": "Luma Elpidio",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/e/3/d/2e3df7bc8bc04f6299058b6c5a794fde-tb4.jpg"
+  },
+  {
+    "name": "Los Hermanos",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/7/1/5/7715900a59f6e525051b9ccb447b03c4-tb4.jpg"
+  },
+  {
+    "name": "Loreen",
+    "gender": "Dance",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/9/e/e/f9eeac243706958bf45d80b258b2ee09-tb4.jpg"
+  },
+  {
+    "name": "Lionel Richie",
+    "gender": "Soul",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/c/9/a/ac9a9bd5faa1239600ed1a856f21c49f-tb4.jpg"
+  },
+  {
+    "name": "Luan Pereira",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/e/0/8/8e08468ea87c9aa7913698a2988bd07c-tb4.jpg"
+  },
+  {
+    "name": "Lord Huron",
+    "gender": "Folk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/3/5/c/b35c659c93d64c611c157518931af668-tb4.jpg"
+  },
+  {
+    "name": "M\u00fasicas Cat\u00f3licas",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/c/4/3/6c43c6533e5ece5e2d539c4804f28f9e-tb4.jpg"
+  },
+  {
+    "name": "Maria Mar\u00e7al",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/a/2/2/ca22e49e13b2fb87f6e5dbd0dbdebd08-tb4.jpg"
+  },
+  {
+    "name": "Mar\u00edlia Mendon\u00e7a",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/e/2/b/3e2b57fcb822d364edc696dc31c36729-tb4.jpg"
+  },
+  {
+    "name": "Marcus Salles",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/0/0/c/f00c5a8f5276879f8a2c58591209bb75-tb4.jpg"
+  },
+  {
+    "name": "MC IG",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/d/f/e/cdfe82f73bbd30a90cd2ef56203bc445-tb4.jpg"
+  },
+  {
+    "name": "Mara Lima",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/0/3/0/8030f1ee3b7df6d944ce37e8ab6652d2-tb4.jpg"
+  },
+  {
+    "name": "MC PH",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/d/3/0/fd3034b70af5f078d153f5964d64d7c2-tb4.jpg"
+  },
+  {
+    "name": "Mitski",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/d/d/4/2dd4e5815c75a73fba22043b5aa65460-tb4.jpg"
+  },
+  {
+    "name": "Melanie Martinez",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/3/0/8/f308e61f5dfed3dad5be439647fb68cd-tb4.jpg"
+  },
+  {
+    "name": "Mamonas Assassinas",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/c/0/9/cc093b9a401953d937008cc8ea850d10-tb4.jpg"
+  },
+  {
+    "name": "Miley Cyrus",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/8/9/e/f89eae48e0fb4c32bf0dfb1e269485f7-tb4.jpg"
+  },
+  {
+    "name": "Maroon 5",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/a/a/e/1aaeeaf9627582a375b18fe2b5017876-tb4.jpg"
+  },
+  {
+    "name": "MC Cabelinho",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/b/f/a/6bfaf130f37d2b63dc61c2e2109cc876-tb4.jpg"
+  },
+  {
+    "name": "Michael Jackson",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/4/1/b/341be9c93b5809ae1cf9862d71319531-tb4.jpg"
+  },
+  {
+    "name": "Manu Bahtid\u00e3o",
+    "gender": "Brega",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/e/3/0/0e300a9cb94e9b3a41b13862979b6076-tb4.jpg"
+  },
+  {
+    "name": "Marisa Monte",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/7/b/a/f7bae22807ab335f4a21677ef8e5c18f-tb4.jpg"
+  },
+  {
+    "name": "Morada",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/5/9/c/b59cb1c9d580311e9890979404b25c27-tb4.jpg"
+  },
+  {
+    "name": "Minist\u00e9rio Apascentar de Louvor (Toque No Altar)",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/3/9/7/03979d7bf1a5503a6190cc0192ea832e-tb4.jpg"
+  },
+  {
+    "name": "Metallica",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/b/e/3/cbe32534b5d42220e47b16a1a9c9c0dd-tb4.jpg"
+  },
+  {
+    "name": "Minist\u00e9rio Zoe",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/0/3/a/503a53f354cfb944c39cfaa0f8e74284-tb4.jpg"
+  },
+  {
+    "name": "Mariah Carey",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/f/2/c/1f2ca1c516e2883041448b1cdb95f617-tb4.jpg"
+  },
+  {
+    "name": "Milion\u00e1rio e Jos\u00e9 Rico",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/c/4/3/5c439e4e3d8df7fe7dd8f82b6149c175-tb4.jpg"
+  },
+  {
+    "name": "MC WS da Leste",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/a/6/2/2a625fc0ad27a91a21964089774fb284-tb4.jpg"
+  },
+  {
+    "name": "Midian Lima",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/a/2/b/ea2b20ea63399d508047b39e0427b047-tb4.jpg"
+  },
+  {
+    "name": "MC Kevin",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/1/8/b/418bbe8b1c8ab72a35b3e814799b53ed-tb4.jpg"
+  },
+  {
+    "name": "Maiara e Maraisa",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/8/4/2/b8425ec365f0e9b3d11f577142b3583f-tb4.jpg"
+  },
+  {
+    "name": "M\u00e5neskin",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/0/5/4/10542b0ed01a58518f862a12ab8b4695-tb4.jpg"
+  },
+  {
+    "name": "M\u00e3e Nininha de Oy\u00e1 Onira",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "MC V.V",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/a/b/1/7ab19546d02cb2c861bb7d7412bd6692-tb4.jpg"
+  },
+  {
+    "name": "Matheus e Kauan",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/5/3/7/9537ea72ac3da96b41b8c07252f68c91-tb4.jpg"
+  },
+  {
+    "name": "Marcos Ant\u00f4nio",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/3/6/3/03631638d70e974befb4be277fd975e1-tb4.jpg"
+  },
+  {
+    "name": "MC Ryan SP",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/c/d/f/acdf725d2fcd566ac2693059e579b45b-tb4.jpg"
+  },
+  {
+    "name": "Milton Nascimento",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/e/2/4/3e2435c25601df8adbb6cbfe1ab9b73c-tb4.jpg"
+  },
+  {
+    "name": "Madonna",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/1/8/e/d18e69bfa1d624905a2d2e9f4d5adf55-tb4.jpg"
+  },
+  {
+    "name": "MC GP",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/9/0/a/f90a1410a3cb5ac8aa37f84d7b56b4ae-tb4.jpg"
+  },
+  {
+    "name": "Misaias Oliveira",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/d/8/6/cd8685cc86383058f05cfc316c72d171-tb4.jpg"
+  },
+  {
+    "name": "N\u00edvea Soares",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/0/4/f/204f3e1a50a1c1e1b077a0d55c9d5803-tb4.jpg"
+  },
+  {
+    "name": "Natal",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/1/7/2/d172a9a705e224e38c7ef94fb4ed1146-tb4.jpg"
+  },
+  {
+    "name": "The Neighbourhood",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/9/0/2/e902ecffdfe38c74800eb5b48673c337-tb4.jpg"
+  },
+  {
+    "name": "Nani Azevedo",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/1/1/c/511c2ba9049149b32f03286282833bdb-tb4.jpg"
+  },
+  {
+    "name": "Nirvana",
+    "gender": "Grunge",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/e/a/a/7eaa6fe76909d0e5d537b77b7aedf72e-tb4.jpg"
+  },
+  {
+    "name": "Novo Hin\u00e1rio Adventista",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/4/3/9/94394fea5d0f7101489dc02719624c18-tb4.jpg"
+  },
+  {
+    "name": "Nadson o Ferinha",
+    "gender": "Piseiro",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/0/0/9/100936336d346bb599f7feade87d850d-tb4.jpg"
+  },
+  {
+    "name": "Nicki Minaj",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/9/c/5f9c164f7a4915e7a738f0d14d4f87a9-tb4.jpg"
+  },
+  {
+    "name": "Nando Reis",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/f/0/5/3f05e8324777415c94d0bcc265874e39-tb4.jpg"
+  },
+  {
+    "name": "Natiruts",
+    "gender": "Reggae",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/8/d/2/e8d224737dc18f8b39109db8f104e5df-tb4.jpg"
+  },
+  {
+    "name": "Nickelback",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/1/9/1/4191460d12b38cada2bc3f3d4936a5fc-tb4.jpg"
+  },
+  {
+    "name": "NewJeans",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/1/e/2/41e2ded666bce1afb88fc8059eb40747-tb4.jpg"
+  },
+  {
+    "name": "New West",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/e/e/5/dee5e4b19456b00ccfded2062e10a3a3-tb4.jpg"
+  },
+  {
+    "name": "NATTAN",
+    "gender": "Piseiro",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/f/e/0/0fe0924cbc9ded8d7635d5a62ed75829-tb4.jpg"
+  },
+  {
+    "name": "Now United",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/c/8/5/fc859e01e6eed92340a15c98a43268bc-tb4.jpg"
+  },
+  {
+    "name": "Nath\u00e1lia Braga",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/b/6/6/ab66da5907894b79359450bd6eba112c-tb4.jpg"
+  },
+  {
+    "name": "Nelson Gon\u00e7alves",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/5/8/2/95825163d5f6100cecd1a98fcd681246-tb4.jpg"
+  },
+  {
+    "name": "Ne-Yo",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/4/9/0/a49028eae0416f80b574f63e89f6ab4c-tb4.jpg"
+  },
+  {
+    "name": "NX Zero",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/d/8/9/bd895e10a7175e99cf90f82ddc884e04-tb4.jpg"
+  },
+  {
+    "name": "Novo Amor",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/8/e/c/e8ec700ba84f389de699b1cbdef996c8-tb4.jpg"
+  },
+  {
+    "name": "NF",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/7/e/5f7e5d4255297034b475e75f8c63fee6-tb4.jpg"
+  },
+  {
+    "name": "Ney Matogrosso",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/5/4/9/154910fd0a27565ccdfb22db54bafc61-tb4.jpg"
+  },
+  {
+    "name": "Nenhum de N\u00f3s",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/3/2/3/332339cc2b03a93a0e19e518208d0d11-tb4.jpg"
+  },
+  {
+    "name": "Nightwish",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/2/1/3/421375cd2a377559f25e0607fc2ea4ae-tb4.jpg"
+  },
+  {
+    "name": "Novo Som",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/8/f/9/88f9878a000ad5abc62b5ec3f10b0bdc-tb4.jpg"
+  },
+  {
+    "name": "Nina Simone",
+    "gender": "Jazz",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/a/0/3/fa03df87e4bb633006146f0c44fefd71-tb4.jpg"
+  },
+  {
+    "name": "Naiara Azevedo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/1/0/7/d1078f12319ed7550cef40258f1e6dcf-tb4.jpg"
+  },
+  {
+    "name": "Nelly Furtado",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/7/2/d/772d9bfa6fc5c864bf1b97269d706342-tb4.jpg"
+  },
+  {
+    "name": "NEFFEX",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/2/8/4/22846af7e688e3c0dea4788914b28728-tb4.jpg"
+  },
+  {
+    "name": "Nazareth",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/8/f/6/78f64b4e0889e638dfa366f4722ea7ad-tb4.jpg"
+  },
+  {
+    "name": "Naruto",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/5/7/4/2574f9070ce48b988fe2693a60c40427-tb4.jpg"
+  },
+  {
+    "name": "Noemi Nonato",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/2/1/6/a2168ab002f715120d92fb33f8c8eb37-tb4.jpg"
+  },
+  {
+    "name": "Nara Le\u00e3o",
+    "gender": "Bossa Nova",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/d/5/c/8d5c77d9d664b6c415bad15523cfc5ed-tb4.jpg"
+  },
+  {
+    "name": "Nat King Cole",
+    "gender": "Jazz",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/8/d/8/38d89073166a508d8463b9993de89493-tb4.jpg"
+  },
+  {
+    "name": "Niall Horan",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/3/6/4/736478f6935dc020d8772383dd3ddd65-tb4.jpg"
+  },
+  {
+    "name": "Nico & Vinz",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/6/3/5/1635e039cf0bedb18cf9f7b9d73c8084-tb4.jpg"
+  },
+  {
+    "name": "Olivia Rodrigo",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/7/e/e/57eee911b0da5b7af22c17f3bfda611a-tb4.jpg"
+  },
+  {
+    "name": "One Direction",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/2/8/a/228a1bcbc9b89779bcd4ef4c0caf5e25-tb4.jpg"
+  },
+  {
+    "name": "Oasis",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/3/1/8/d3189c314b3491b5a56b5f393396cf1f-tb4.jpg"
+  },
+  {
+    "name": "Os Incr\u00edveis",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/e/b/f/0ebf8854494a0e6b4860fedd9bfa1976-tb4.jpg"
+  },
+  {
+    "name": "Oz\u00e9ias de Paula",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/1/c/0/51c0d13e63fe4a829c3aebcdc54460e6-tb4.jpg"
+  },
+  {
+    "name": "Orochi",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/e/c/4/eec4f60f4659ffa42cfa0faf35b66d63-tb4.jpg"
+  },
+  {
+    "name": "OneRepublic",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/4/9/5/7495616fd9d1e18320b962105fbbd4be-tb4.jpg"
+  },
+  {
+    "name": "O Rappa",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/9/6/8/d968afbfbd27539dba1bb84f9c121eb6-tb4.jpg"
+  },
+  {
+    "name": "Os Paralamas do Sucesso",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/b/2/f/ab2f3c79a99a172f5374fd48a92901a6-tb4.jpg"
+  },
+  {
+    "name": "Oriente",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/0/b/1/60b12f2de5f086cfe7d434c8ff7b77ea-tb4.jpg"
+  },
+  {
+    "name": "Oruam",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/7/9/4/c794c65921bb447011de09f904afb9cb-tb4.jpg"
+  },
+  {
+    "name": "Oasis Ministry",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/2/5/f/025fd21e56eb85870cfe29c3245c2b03-tb4.jpg"
+  },
+  {
+    "name": "Os Bar\u00f5es da Pisadinha",
+    "gender": "Piseiro",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/4/9/1/e491578e93012ccf2f367fd62426df1d-tb4.jpg"
+  },
+  {
+    "name": "The Offspring",
+    "gender": "Punk Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/2/f/2/62f2a636f51c1b83476ff77b445a472a-tb4.jpg"
+  },
+  {
+    "name": "Ozzy Osbourne",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/8/3/b/783bfdeb17595c3c53241cac93d05a47-tb4.jpg"
+  },
+  {
+    "name": "Ozuna",
+    "gender": "Reggaeton",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/c/f/8/8cf8bd4ef3ddb76f4a9c5edd6e8612de-tb4.jpg"
+  },
+  {
+    "name": "O Rei Le\u00e3o (The Lion King)",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/e/9/2/2e920a5bc9b9593698289ba5eac1c2ee-tb4.jpg"
+  },
+  {
+    "name": "Os Serranos",
+    "gender": "Regional",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/0/e/6/60e6839eb89c0b4ee2288f71953d941e-tb4.jpg"
+  },
+  {
+    "name": "One Piece",
+    "gender": "J-Pop/J-Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/6/a/f/76af6cde994716301bda0f1c8541a339-tb4.jpg"
+  },
+  {
+    "name": "The Outfield",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/1/3/a/a13abef785a5a4e710cb133fb89f3a8e-tb4.jpg"
+  },
+  {
+    "name": "Oswaldo Montenegro",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/f/0/c/4f0c4a8ced056e2401f0e62a885f2794-tb4.jpg"
+  },
+  {
+    "name": "Oficina G3",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/4/9/9/1499af12feac6a1a82772ec66de060d6-tb4.jpg"
+  },
+  {
+    "name": "O Salmista",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/d/0/1/ad013edd4c0ac57aa6caf2a5e1f2d2c5-tb4.jpg"
+  },
+  {
+    "name": "Os Travessos",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/e/9/3/8e93699501af3f0fddc4128ead34f48e-tb4.jpg"
+  },
+  {
+    "name": "O Rei do Show (The Greatest Showman)",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/f/9/2/4f92e2b80832ca178fe55d786e4fa570-tb4.jpg"
+  },
+  {
+    "name": "Os Originais do Samba",
+    "gender": "Samba",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/2/d/e/12dede21282c95753c3ad8beccb920de-tb4.jpg"
+  },
+  {
+    "name": "Omah Lay",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/8/4/d/f84de43b5e0642673b83514a34995ba7-tb4.jpg"
+  },
+  {
+    "name": "Os Levitas",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/7/4/2/57427f0ea59b07beb388cc78820ee5ba-tb4.jpg"
+  },
+  {
+    "name": "O Teatro M\u00e1gico",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/d/c/e/1dced14068dbcdb0f44b2648e1d51b95-tb4.jpg"
+  },
+  {
+    "name": "OutKast",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/6/d/0/46d07ef1fbd5e6332a5f5aef9a33113b-tb4.jpg"
+  },
+  {
+    "name": "Os Filhos De Goi\u00e1s",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/6/8/f/a68f2d972e91b45ae6f82215db50aa17-tb4.jpg"
+  },
+  {
+    "name": "Olodum",
+    "gender": "Ax\u00e9",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/f/7/0/ff70bda303cb74d0e9dce2d0edd098c3-tb4.jpg"
+  },
+  {
+    "name": "Os Monarcas",
+    "gender": "Regional",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/a/2/7/8a2743c2ec34d2aa2ee935e0b2c24d15-tb4.jpg"
+  },
+  {
+    "name": "Os Nonatos",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/4/5/c/845cd76d399cc363e61704d3d8c5f7fd-tb4.jpg"
+  },
+  {
+    "name": "Odetari",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "One Ok Rock",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/3/8/b/338bc5d6b7bc996a009310ec6a3aa3df-tb4.jpg"
+  },
+  {
+    "name": "Pineapple",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/1/d/5/f1d59ccaa859e70ba59cd08580cc53a7-tb4.jpg"
+  },
+  {
+    "name": "Padre Zezinho",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/a/4/3/5a43083dd43c17a8c99a7bf2f44dfe73-tb4.jpg"
+  },
+  {
+    "name": "Peso Pluma",
+    "gender": "Corridos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/b/7/a/3b7a23aeca71526b9c8264150ed2d405-tb4.jpg"
+  },
+  {
+    "name": "Pink Floyd",
+    "gender": "Rock Progressivo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/9/3/b/093b9f9e35281efb9d86a1e33790947a-tb4.jpg"
+  },
+  {
+    "name": "Pedro Henrique (Gospel)",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/7/f/3/27f377681f265e6b16b3e34ad3b97c57-tb4.jpg"
+  },
+  {
+    "name": "Pearl Jam",
+    "gender": "Grunge",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/b/d/a/7bda8810fb3661290d9744100cecd82d-tb4.jpg"
+  },
+  {
+    "name": "Post Malone",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/5/1/2/b512f42e78de2386852f46fa14111955-tb4.jpg"
+  },
+  {
+    "name": "Padre Marcelo Rossi",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/8/3/4/6834e1f24d00933031e4b346628d991e-tb4.jpg"
+  },
+  {
+    "name": "Paulo C\u00e9sar Baruk",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/4/a/e/94ae49b18272713b8de8e66775e7aae7-tb4.jpg"
+  },
+  {
+    "name": "P\u00e9ricles",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/b/1/6/8b161f9bdb682e3ec9ee27525c5a615d-tb4.jpg"
+  },
+  {
+    "name": "Paramore",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/0/c/5/f0c54479202b764ca6ff6028db34b543-tb4.jpg"
+  },
+  {
+    "name": "Pablo",
+    "gender": "Rom\u00e2ntico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/8/7/2/d872639bee77b8e4d767f6922ae1850c-tb4.jpg"
+  },
+  {
+    "name": "Pitty",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/0/9/c/f09c5e023b4d39551a63d13e2d9b3c95-tb4.jpg"
+  },
+  {
+    "name": "Preto No Branco",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/2/6/0/22604bf5cc0f6dd15de13fdeeacba62a-tb4.jpg"
+  },
+  {
+    "name": "Pe. Jo\u00e3o Carlos",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/9/3/7/1937b2b3557240ffc5e268630c223e0f-tb4.jpg"
+  },
+  {
+    "name": "Phil Collins",
+    "gender": "Soft Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/4/9/f/349f5d2ec4fda71f834607bcb4f8b4de-tb4.jpg"
+  },
+  {
+    "name": "Os Paralamas do Sucesso",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/b/2/f/ab2f3c79a99a172f5374fd48a92901a6-tb4.jpg"
+  },
+  {
+    "name": "Paul McCartney",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/8/1/0/1810d24931b91ec248ec6192a4cb95b3-tb4.jpg"
+  },
+  {
+    "name": "P!nk",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/f/1/5/8f15de375983315d9c207ef958aecc52-tb4.jpg"
+  },
+  {
+    "name": "Paula Fernandes",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/0/8/5/108541bf974e745dfd1e5e9d96442deb-tb4.jpg"
+  },
+  {
+    "name": "Projeto Sola",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/a/6/8/9a686bc6e1564ce0935b989439c175e3-tb4.jpg"
+  },
+  {
+    "name": "Paulo Neto (Gospel)",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/f/a/4/2fa4fba24b5f1ac50aee983724500f41-tb4.jpg"
+  },
+  {
+    "name": "Phil Wickham",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/a/3/8/7a385c8271fb9c4de4848a9adcb253db-tb4.jpg"
+  },
+  {
+    "name": "Passenger",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/a/d/6/dad6e03dc4384d7b611f8cc979a0392e-tb4.jpg"
+  },
+  {
+    "name": "Projota",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/0/a/1/90a1ff5767407821f13482b47d806910-tb4.jpg"
+  },
+  {
+    "name": "Padre Ant\u00f4nio Maria",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/9/7/a/b97ac5ad991d10879282732c78da418f-tb4.jpg"
+  },
+  {
+    "name": "Pabllo Vittar",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/7/2/e/f72eae88e17f3eb1b12f4bf4fd4fae37-tb4.jpg"
+  },
+  {
+    "name": "Pe. F\u00e1bio de Melo",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/8/5/0/e850d31330f93974e903869a73b0e8ba-tb4.jpg"
+  },
+  {
+    "name": "Padre Zeca",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/b/8/f/3b8f54decd1de5b04b74497ab2704d4f-tb4.jpg"
+  },
+  {
+    "name": "The Police",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/e/d/b/7edb9c4bca8db872931624b827204da0-tb4.jpg"
+  },
+  {
+    "name": "Pr. Lucas",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/f/9/a/3f9a86daedd28c70572d169191006402-tb4.jpg"
+  },
+  {
+    "name": "Prisma Brasil",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/0/0/a/d00a77697cf19563a18029b7ad35fe74-tb4.jpg"
+  },
+  {
+    "name": "Panic! At The Disco",
+    "gender": "Emocore",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/4/6/d/446dc0370486dec4f1c1c7d66582dddd-tb4.jpg"
+  },
+  {
+    "name": "Pedras Vivas",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/e/5/7/9e57b42674a1b0a3b77915c5705feb3f-tb4.jpg"
+  },
+  {
+    "name": "Pentatonix",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/a/3/4/da34822b9a7cf680ec435dece96018d1-tb4.jpg"
+  },
+  {
+    "name": "Padre Reginaldo Manzotti",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/6/6/4/e664d482abeae77c8d50e811c44c415d-tb4.jpg"
+  },
+  {
+    "name": "Queen",
+    "gender": "Rock Progressivo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/8/4/7/e847e9d573d628bfc8e9a276d88bdb9d-tb4.jpg"
+  },
+  {
+    "name": "Quatro Por Um",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/5/8/f/058f743ee64845d7f45e205b90054291-tb4.jpg"
+  },
+  {
+    "name": "Queens Of The Stone Age",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/3/a/6/73a60b323b3ebdb29386f1621e3fc003-tb4.jpg"
+  },
+  {
+    "name": "Os Quatro e Meia",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Quim Barreiros",
+    "gender": "Regional",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/4/f/1/74f1fe24bf781cbc430bfbdecac17f51-tb4.jpg"
+  },
+  {
+    "name": "Quevedo",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/9/3/9/b939aa6bb9ccc46483479d3b986aba35-tb4.jpg"
+  },
+  {
+    "name": "Quavo",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/0/2/2/6022e36b810a5875c1e21e7d05f8e227-tb4.jpg"
+  },
+  {
+    "name": "Quarteto Gileade",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/7/8/d/f78de9f96f91af612de939306f6e204f-tb4.jpg"
+  },
+  {
+    "name": "Queen Omega",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/a/3/5/aa3530f0597e1fa798902babab974815-tb4.jpg"
+  },
+  {
+    "name": "Queensr\u00ffche",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/0/1/c/701c4337598f55d16a8534bc332716f2-tb4.jpg"
+  },
+  {
+    "name": "Quarteto Cora\u00e7\u00e3o de Potro",
+    "gender": "Regional",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/9/f/f/69ff792b5b067d3d0637e8ac6b2a06c6-tb4.jpg"
+  },
+  {
+    "name": "Q' Lokura",
+    "gender": "Cuarteto",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/9/7/c/597ca621805e5c50e3f12eaceef11e6f-tb4.jpg"
+  },
+  {
+    "name": "Quinho",
+    "gender": "Samba Enredo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/f/f/2/aff240b94ec9207f6bb71843a0b39d02-tb4.jpg"
+  },
+  {
+    "name": "Queen Naija",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/4/a/d/c4aded1db882e994f75a3bb4b749d3a0-tb4.jpg"
+  },
+  {
+    "name": "Quarteto Abba Pai",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Quiet Riot",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/5/f/3/85f3392db046101ebb154fc7a9a47846-tb4.jpg"
+  },
+  {
+    "name": "Quarteto Mori\u00e1",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Quinta G\u00f3spel",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/d/2/e/1d2e0ba69d820a39a2be8c424516fa54-tb4.jpg"
+  },
+  {
+    "name": "Quarteto Templo",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Qveen Herby",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/f/b/4/efb44e9799736ebe828ab8efa5f31814-tb4.jpg"
+  },
+  {
+    "name": "Quarteto em CY",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/4/3/d/e43d540bab6dad8fe0fb6b05639da898-tb4.jpg"
+  },
+  {
+    "name": "Quarteto Alfa",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/f/3/b/0f3b9c2f416c1021daf6d7ff31081cf5-tb4.jpg"
+  },
+  {
+    "name": "Os Quebradeiras",
+    "gender": "Funk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/b/f/d/6bfdd12a4a1721fab3da59f943083cbe-tb4.jpg"
+  },
+  {
+    "name": "Quarteto Athus",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/d/4/f/1d4fbf90315a4c5bad4782ca37face01-tb4.jpg"
+  },
+  {
+    "name": "Quim Roscas e Zeca Estacionancio",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/6/9/c/669c5b17f42751b3dd8c7dfb1fc79a69-tb4.jpg"
+  },
+  {
+    "name": "Quinteto Violado",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/f/0/3/9f03d8774854823e58478094c3351f2c-tb4.jpg"
+  },
+  {
+    "name": "Quinteto em Branco e Preto",
+    "gender": "Samba",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Quadrangular",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Queen Bee",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Quik Ir\u00f4nico",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/5/5/b/d55bf513b8c636d73caf3e4cef751fe5-tb4.jpg"
+  },
+  {
+    "name": "Quincy Jones",
+    "gender": "Jazz",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/e/4/f/0e4fdbe46189ed01b1497157554ffe2e-tb4.jpg"
+  },
+  {
+    "name": "Queen Latifah",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/c/f/5/9cf52b7ca866adf95ffb92baf954dcdc-tb4.jpg"
+  },
+  {
+    "name": "Quintino e Quirino",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/c/4/3/5c43d1739c988e7abd2eb103360b6c7b-tb4.jpg"
+  },
+  {
+    "name": "Quarteto Virtude",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Quarteto Koiononia",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Quinta do Bill",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Rihanna",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/d/3/b/1d3b366fa4b9caadaa56560c77e94809-tb4.jpg"
+  },
+  {
+    "name": "Roberto Carlos",
+    "gender": "Jovem Guarda",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/5/5/1/e551fc6eb958a7c35d087e4be43170bb-tb4.jpg"
+  },
+  {
+    "name": "RBD",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/5/d/0/75d0c5cee94dd639b0dbce0317b3b1ef-tb4.jpg"
+  },
+  {
+    "name": "Renascer Praise",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/f/6/d/3f6d0a2a54394ef1f62ad151b0e5e332-tb4.jpg"
+  },
+  {
+    "name": "Racionais MC's",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/1/a/1/81a118cac9567d9745e2e25488062683-tb4.jpg"
+  },
+  {
+    "name": "Rose Nascimento",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/7/b/8/57b89247a965959862c16a4721e6bd39-tb4.jpg"
+  },
+  {
+    "name": "Red Hot Chili Peppers",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/e/6/8/de68d2521081ec73ba7fb0845266084f-tb4.jpg"
+  },
+  {
+    "name": "Raul Seixas",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/c/2/e/7c2ed084b94421896c2871e4cf943102-tb4.jpg"
+  },
+  {
+    "name": "Roupa Nova",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/2/e/f/02ef106db1e0d9673d4f3408fb17748f-tb4.jpg"
+  },
+  {
+    "name": "Ra\u00e7a Negra",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/2/8/c/a28c7431791fea766b1fc978ebc07aed-tb4.jpg"
+  },
+  {
+    "name": "Rita Lee",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/5/0/6/f506783c9cfc53806846f7e2cc4cb0ac-tb4.jpg"
+  },
+  {
+    "name": "Regis Danese",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/5/d/e/45de41f00d952bfb308636e3f44403f0-tb4.jpg"
+  },
+  {
+    "name": "REMA",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/3/7/0/f370a62cad181ce8a00c3c354a7e4989-tb4.jpg"
+  },
+  {
+    "name": "Radiohead",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/d/1/8/dd18bfeff6b98337a37deaf320a1e59a-tb4.jpg"
+  },
+  {
+    "name": "Rosa de Saron",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/c/f/c/3cfc46bb349119bd6fb11ecebb9041b0-tb4.jpg"
+  },
+  {
+    "name": "The Rolling Stones",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/7/7/2/0772f556fb387ded79b8ad897dbcb44c-tb4.jpg"
+  },
+  {
+    "name": "Roxette",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/1/0/e/910e1224bd44d569a414282a3e5d871d-tb4.jpg"
+  },
+  {
+    "name": "Rammstein",
+    "gender": "Industrial",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/4/0/2/04024b7e57d4529ca4ef5f74a477b349-tb4.jpg"
+  },
+  {
+    "name": "R.E.M.",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/4/2/7/c42786700f887e055cf536f7f970f8d9-tb4.jpg"
+  },
+  {
+    "name": "Reik",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/1/8/e/918e3fe9d1f9365c516e1dc7039f874a-tb4.jpg"
+  },
+  {
+    "name": "Raphaela Santos",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/3/0/1/0301f85371ad8a7ada5eecd17965089f-tb4.jpg"
+  },
+  {
+    "name": "Rod Stewart",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/2/4/c/c24c0a55d1965d65d0e7bb83a0737f1a-tb4.jpg"
+  },
+  {
+    "name": "R\u00fcf\u00fcs Du Sol",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/a/f/7/4af7aaa7c737071f998888f6980f566f-tb4.jpg"
+  },
+  {
+    "name": "Rick e Renner",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/1/7/e/c17e2171a075f1646a965865ec2e29e4-tb4.jpg"
+  },
+  {
+    "name": "Resgate Music",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/9/1/5/69159a17337076e0f95a95c2fbe77212-tb4.jpg"
+  },
+  {
+    "name": "Rosa Linn",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/4/e/e/84eed53236c7d32aa2fd8c4f2b35552b-tb4.jpg"
+  },
+  {
+    "name": "Rayssa e Ravel",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/6/b/6/d6b68b512cfd549927663678ae394987-tb4.jpg"
+  },
+  {
+    "name": "Rionegro e Solim\u00f5es",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/2/d/7/72d7781730608149679815c719142f84-tb4.jpg"
+  },
+  {
+    "name": "Raimundos",
+    "gender": "Hardcore",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/6/6/f/366f2c99f2a60e02a17b085a015b836e-tb4.jpg"
+  },
+  {
+    "name": "Rayanne Vanessa",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/7/4/3/d7431b9b68043610ec8adba791505917-tb4.jpg"
+  },
+  {
+    "name": "Ruth B.",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/e/b/5/aeb58f3281510e8de14a4c0405ee7a41-tb4.jpg"
+  },
+  {
+    "name": "Reginaldo Rossi",
+    "gender": "Brega",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/b/2/a/9b2aab963ae6d1d02ffc835dfd6cad99-tb4.jpg"
+  },
+  {
+    "name": "ROSAL\u00cdA",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/1/e/a/c1ead77ab62db3fcab556fb6aa8be5f4-tb4.jpg"
+  },
+  {
+    "name": "Ritchie",
+    "gender": "Rom\u00e2ntico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/5/4/5/c54564679172b4ebb3cbee822f2ad9bd-tb4.jpg"
+  },
+  {
+    "name": "Renato Russo",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/4/8/b/748b11ddded32d586732fa94d796e4bd-tb4.jpg"
+  },
+  {
+    "name": "Red Velvet",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/7/e/f/77efa2ed5d9e8ea825483832318ccd85-tb4.jpg"
+  },
+  {
+    "name": "Shirley Carvalhaes",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/f/1/a/3f1a838cd50049144b37a1d9d6b9f338-tb4.jpg"
+  },
+  {
+    "name": "Sorriso Maroto",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/a/e/b/daebc66a1ec9930b2e9ce66a52f7baf8-tb4.jpg"
+  },
+  {
+    "name": "Sabrina Carpenter",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/3/1/0/4310a267d7e9e9b5975278799a6074fd-tb4.jpg"
+  },
+  {
+    "name": "SZA",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/7/5/7/4757116cf054ed352b99a83cb310bc0d-tb4.jpg"
+  },
+  {
+    "name": "Stray Kids",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/f/4/6/3f465f8b48b26f257818d30197e51f59-tb4.jpg"
+  },
+  {
+    "name": "Sia",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/b/3/3/fb3337eb3b413d5cf83efc504cffed25-tb4.jpg"
+  },
+  {
+    "name": "Sarah Farias",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/9/6/9/3969a226dd7983fc4167195c8cdab9f1-tb4.jpg"
+  },
+  {
+    "name": "Samuel Messias",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/8/0/a/a80a9b0cd8a27d913869ee9ce062850d-tb4.jpg"
+  },
+  {
+    "name": "Seph Schlueter",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/2/7/a/327ad9ac0d7f3d4075957ce2e02d5c01-tb4.jpg"
+  },
+  {
+    "name": "Simone Mendes",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/c/7/f/cc7f695101df35e6b84075d854861c98-tb4.jpg"
+  },
+  {
+    "name": "System Of A Down",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/2/a/0/42a0c8243f15bdc64d55891161f114eb-tb4.jpg"
+  },
+  {
+    "name": "Shawn Mendes",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/6/6/5/d6655e4cdf4432226a36c76b6b0dd9d5-tb4.jpg"
+  },
+  {
+    "name": "Soraya Moraes",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/7/7/8/3778df1adeccb3a9bdec8f2c14088a34-tb4.jpg"
+  },
+  {
+    "name": "Sam Smith",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/6/9/9/e6992d3f31aded511dad5bf98762d5ce-tb4.jpg"
+  },
+  {
+    "name": "Selena Gomez",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/5/0/1/750151a671a99fdf25c4ab39aa041412-tb4.jpg"
+  },
+  {
+    "name": "S\u00e9rgio Lopes",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/d/1/c/4d1cd13abe745efd0566094376664d64-tb4.jpg"
+  },
+  {
+    "name": "Slipknot",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/2/6/6/5266e6a16b5fe4501de0d70cb2935f48-tb4.jpg"
+  },
+  {
+    "name": "Skank",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/4/3/d/e43dca87cee445e4b38dc7bab0ec23b6-tb4.jpg"
+  },
+  {
+    "name": "Samuel Mariano",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/b/f/b/3bfbf4b2c3b133f89b1ebde0ee8f3a22-tb4.jpg"
+  },
+  {
+    "name": "Sarah Beatriz",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/9/5/3/2953892b9276b16dd443a6305ad07dca-tb4.jpg"
+  },
+  {
+    "name": "Scorpions",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/c/9/2/3c92c64774707712662da6c81504c78f-tb4.jpg"
+  },
+  {
+    "name": "Shakira",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/7/b/9/37b98f349e1d104b1336842251371318-tb4.jpg"
+  },
+  {
+    "name": "S\u00e9rgio Reis",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/5/f/5/15f551920b76f41c2f3b0f48c8df7b9e-tb4.jpg"
+  },
+  {
+    "name": "Stella Laura",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/9/b/8/79b86a88b706124f48b71d033452629f-tb4.jpg"
+  },
+  {
+    "name": "The Smiths",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/a/5/0/1a50bd6de42dcf027a2a7b96c399072b-tb4.jpg"
+  },
+  {
+    "name": "Sandy & Junior",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/8/c/a/08caace2a609da29f878dba5d094b746-tb4.jpg"
+  },
+  {
+    "name": "Silvan Santos",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/f/c/9/9fc945e63165e029298875bde6aa8070-tb4.jpg"
+  },
+  {
+    "name": "Shania Twain",
+    "gender": "Country",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/a/b/9/4ab96d0d711b232bbfc3ea75cb7bc7c5-tb4.jpg"
+  },
+  {
+    "name": "SpacerBR",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Stephen Sanchez",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/8/5/2/68522c4d13ec20ee5b9dbae48bf4faf9-tb4.jpg"
+  },
+  {
+    "name": "Summer Walker",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/b/a/1/eba1bf9f765dc6e3800390401f8f289d-tb4.jpg"
+  },
+  {
+    "name": "Sued Silva",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/4/1/7/f417118549fcf581985f7e86e2435a91-tb4.jpg"
+  },
+  {
+    "name": "S\u00f3 Pra Contrariar (SPC)",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/d/5/5fd5db9924cdbf57a4ab039c3fe9388a-tb4.jpg"
+  },
+  {
+    "name": "Sleeping At Last",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/5/1/a/c51a35f38ff255f9fce3becc5161852e-tb4.jpg"
+  },
+  {
+    "name": "Surfaces",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/f/8/3/ff8331d0d15125c531fda2cadecff497-tb4.jpg"
+  },
+  {
+    "name": "Simone e Simaria",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/c/4/2/0c4215558e4728f183605ba8ef1e8615-tb4.jpg"
+  },
+  {
+    "name": "Taylor Swift",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/a/4/b/aa4bc9e805b79c420c431ef898348a91-tb4.jpg"
+  },
+  {
+    "name": "The Weeknd",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/9/a/1/89a114a2f4a89231c5508efb3b700434-tb4.jpg"
+  },
+  {
+    "name": "The Beatles",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/7/b/d/d7bdb8738aa4d1cdfa9d39dbc75d2b12-tb4.jpg"
+  },
+  {
+    "name": "Tet\u00ea Esp\u00edndola",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/a/c/2/1ac2c2425c12404110b318eecde5cf1e-tb4.jpg"
+  },
+  {
+    "name": "The Neighbourhood",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/9/0/2/e902ecffdfe38c74800eb5b48673c337-tb4.jpg"
+  },
+  {
+    "name": "Tasha Cobbs Leonard",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/0/5/0/9050fe16064743da1ff70180f2323a9e-tb4.jpg"
+  },
+  {
+    "name": "Thalles Roberto",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/7/6/3/076344f19ba6d979aba884644524da61-tb4.jpg"
+  },
+  {
+    "name": "Tim Maia",
+    "gender": "Soul",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/d/1/3/5d138386cb0ff237d0f65cd6a9905ab4-tb4.jpg"
+  },
+  {
+    "name": "Tate McRae",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/3/3/d/b33ddad6f699607b9d4648e6c173dfc6-tb4.jpg"
+  },
+  {
+    "name": "Travis Scott",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/1/b/6/f1b6115a36e1bb3ee875726b3edc9f9e-tb4.jpg"
+  },
+  {
+    "name": "TWICE",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/3/2/9/13291dea4ea6699d151128902d8815da-tb4.jpg"
+  },
+  {
+    "name": "Trio Parada Dura",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/f/0/f/0f0fc7a5faac4eff407bcc73d538ac1e-tb4.jpg"
+  },
+  {
+    "name": "Thiaguinho",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/7/a/1/37a116f36b7639930d4e8b98babfb5a7-tb4.jpg"
+  },
+  {
+    "name": "Tom Jobim",
+    "gender": "Bossa Nova",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/9/5/0/395029115ac72c6a9bfb3b8e1b889e57-tb4.jpg"
+  },
+  {
+    "name": "Tarc\u00edsio do Acordeon",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/0/b/0/b0b0c85ca9ac6f6b90e7d6da71ee0957-tb4.jpg"
+  },
+  {
+    "name": "Ti\u00e3o Carreiro e Pardinho",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/5/8/4/c5848603c1bd26bb35ad8d83366a6026-tb4.jpg"
+  },
+  {
+    "name": "Tribalistas",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/e/f/4/8ef4f74b91bbdf1e1dfdea496aeede9e-tb4.jpg"
+  },
+  {
+    "name": "Tit\u00e3s",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/2/3/2/923238e834221fcc7e2a952b13772221-tb4.jpg"
+  },
+  {
+    "name": "Tyler, The Creator",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/3/8/7/a387ffa6f1eeec61b14d201062e25450-tb4.jpg"
+  },
+  {
+    "name": "Tears For Fears",
+    "gender": "New Wave",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/0/2/9/4029faafbfedccb7b800292185ef638b-tb4.jpg"
+  },
+  {
+    "name": "Tribo da Periferia",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/d/5/3/8d53948ad891fc9194f56fb4bd30d775-tb4.jpg"
+  },
+  {
+    "name": "The Fevers",
+    "gender": "Jovem Guarda",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/0/d/8/30d89a6235cf88c0ff6d44e89cf269d3-tb4.jpg"
+  },
+  {
+    "name": "Theo Rubia",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/9/d/3/49d36aa9a99f055c75937ec49434a309-tb4.jpg"
+  },
+  {
+    "name": "Tom Odell",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/6/d/c/c6dceb0d9c4d16f63474dfb2a5b2be08-tb4.jpg"
+  },
+  {
+    "name": "The Cranberries",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/9/c/0/69c0c8791bef749f3163281b4a7d42e2-tb4.jpg"
+  },
+  {
+    "name": "The Rolling Stones",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/7/7/2/0772f556fb387ded79b8ad897dbcb44c-tb4.jpg"
+  },
+  {
+    "name": "Talita Catanzaro",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/0/b/4/d0b446ff0442ca42c47485d8ce7ce486-tb4.jpg"
+  },
+  {
+    "name": "The Smiths",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/a/5/0/1a50bd6de42dcf027a2a7b96c399072b-tb4.jpg"
+  },
+  {
+    "name": "Tyla",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/2/1/f/f21ffccf13efe7fa9e82c9346473a602-tb4.jpg"
+  },
+  {
+    "name": "Turma do Pagode",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/f/f/9/dff9e37367d3144cfe402a4b00fa79c2-tb4.jpg"
+  },
+  {
+    "name": "Twenty One Pilots",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/e/e/1/5ee17a48497980f4647bf5ae6e588a35-tb4.jpg"
+  },
+  {
+    "name": "Trazendo a Arca",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/6/6/3/f6630eb5384aac2d58d02ebb5aba28d4-tb4.jpg"
+  },
+  {
+    "name": "Tz da Coronel",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/2/f/f/92ff61f48f54eeb8a7d52b58c455bc20-tb4.jpg"
+  },
+  {
+    "name": "The Cure",
+    "gender": "G\u00f3tico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/0/f/5/40f5ea0aa1f7a5a973348671373f3f58-tb4.jpg"
+  },
+  {
+    "name": "Teodoro e Sampaio",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/1/0/1/7101187c88b816facffd36f477397a67-tb4.jpg"
+  },
+  {
+    "name": "Thamires Garcia",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/6/4/1/d6418d4a8ce55bd9b24b413513c41e09-tb4.jpg"
+  },
+  {
+    "name": "Umbanda",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/2/e/e/d2eed94541695b336d3b279b30ec96e0-tb4.jpg"
+  },
+  {
+    "name": "U2",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/5/f/4/45f42e7f33042c8d9662c624814f64d6-tb4.jpg"
+  },
+  {
+    "name": "Unha Pintada",
+    "gender": "Piseiro",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/3/9/9/0399a4aa3d800f4f360fd1221b5e0130-tb4.jpg"
+  },
+  {
+    "name": "Usher",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/0/f/6/a0f608ac1818d840a01ab3a107e6c1ba-tb4.jpg"
+  },
+  {
+    "name": "US Agroboy",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/8/0/5/18054f0d2eb0c0cbe4f3ed1fb41fecfd-tb4.jpg"
+  },
+  {
+    "name": "USA For Africa",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/0/c/0/70c030c77f8ae32d6a12f32047d9c42d-tb4.jpg"
+  },
+  {
+    "name": "Um44k",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/0/9/0/30905855f15f422ecd9abcb679d9effa-tb4.jpg"
+  },
+  {
+    "name": "Urias",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/c/8/8/ec88d56c25f7e7d0dd20d0ab22b99c64-tb4.jpg"
+  },
+  {
+    "name": "Ultraje a Rigor",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/d/2/8/5d286b897a32f91d40074b5d29517dfa-tb4.jpg"
+  },
+  {
+    "name": "Uzielito Mix",
+    "gender": "Reggaeton",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/2/7/a/127ae1ac33e5415999b66334c8e30c85-tb4.jpg"
+  },
+  {
+    "name": "Ugovhb",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/c/3/f/5c3fe0d5be4169561e23bf8aa2d8ac92-tb4.jpg"
+  },
+  {
+    "name": "UCL\u00c3",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/1/0/6/7106afb7765fc7d421f5d2c8096d8741-tb4.jpg"
+  },
+  {
+    "name": "UMI",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/b/b/f/9bbf89c6d080eb4abfa6c54c2a9b0142-tb4.jpg"
+  },
+  {
+    "name": "Uni(Verso)\u00b2",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "UB40",
+    "gender": "Reggae",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/c/e/9/bce9a7dffd79825ba7e8f6a233b4e025-tb4.jpg"
+  },
+  {
+    "name": "Utada Hikaru",
+    "gender": "J-Pop/J-Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/2/f/c/c2fc4ebd37137abb1dd8cff014c6d0a2-tb4.jpg"
+  },
+  {
+    "name": "UPPERROOM",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Ultimo",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/6/4/a/a64ac2eed9dc79fd21a855eff24ed9c8-tb4.jpg"
+  },
+  {
+    "name": "United Louvor",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "United Pursuit",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/2/0/b/520b81639c573236bc8fef700480e07e-tb4.jpg"
+  },
+  {
+    "name": "Um Barril de Rap",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Unlike Pluto",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/2/4/e/224ec459841f901206dcb681d1f34e0e-tb4.jpg"
+  },
+  {
+    "name": "Uriah Heep",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/a/d/0/fad0017530357386ef36e3951c2007b6-tb4.jpg"
+  },
+  {
+    "name": "Ui Shigure",
+    "gender": "J-Pop/J-Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/1/6/9/71690837f32ebf9275148592a572fbb9-tb4.jpg"
+  },
+  {
+    "name": "Unspoken",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/2/2/4/6224740ae61eda848b1dd4f06549f50a-tb4.jpg"
+  },
+  {
+    "name": "Umberto Tozzi",
+    "gender": "Ax\u00e9",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/f/b/3/4fb33c312b056db766b4b40bbd96ae8b-tb4.jpg"
+  },
+  {
+    "name": "Uverworld",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/9/7/7/2977b3cda749a2d06e8d70bd3c8c52a3-tb4.jpg"
+  },
+  {
+    "name": "Uns e Outros",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/2/3/e/b23eeaf186ff30b18f1b3f33269581f9-tb4.jpg"
+  },
+  {
+    "name": "UEFA Champions League",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Underground Samba Lapa",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Un Coraz\u00f3n",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/6/d/1/86d117b1d4e3a118d634ef28b8b180b3-tb4.jpg"
+  },
+  {
+    "name": "The Used",
+    "gender": "Emocore",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/6/b/d/76bdba28b6b6823c651ec9507ce9ffc4-tb4.jpg"
+  },
+  {
+    "name": "Utopia",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/8/9/7/38976eb0414e1882f1fe7447f61ff9ea-tb4.jpg"
+  },
+  {
+    "name": "UFO",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/3/5/3/a3536591652a760d8519f969b043dba9-tb4.jpg"
+  },
+  {
+    "name": "Urge Overkill",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/4/e/8/14e8535944fd4c6f16df5d597ce6b4bd-tb4.jpg"
+  },
+  {
+    "name": "Unknown Brain",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/a/8/c/4a8c074cab454b13c4ffd4dc641639ee-tb4.jpg"
+  },
+  {
+    "name": "Valesca Mayssa",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/7/2/9/b7298bcad29f96e571fbc7d2906c5381-tb4.jpg"
+  },
+  {
+    "name": "Victor Thompson",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/d/9/2/7d92f61da834d7595b530d5dda036c54-tb4.jpg"
+  },
+  {
+    "name": "Voz da Verdade",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/f/b/7/0fb72086753d04b9311f1ddd0d37e069-tb4.jpg"
+  },
+  {
+    "name": "Vanilda Bordieri",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/1/0/2/3102ddd660d02df0aca35ad351dcf583-tb4.jpg"
+  },
+  {
+    "name": "Victor e Leo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/f/e/7/7fe75f2439a2a96dbda09da8713f1151-tb4.jpg"
+  },
+  {
+    "name": "Vinicius de Moraes",
+    "gender": "Bossa Nova",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/b/5/5/5b5590d0dbc624f44bd6d707de3c1c27-tb4.jpg"
+  },
+  {
+    "name": "Vineyard",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/8/9/1/789156a2523ffb85f6474acf36e19789-tb4.jpg"
+  },
+  {
+    "name": "Veigh",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/c/c/e/acce8f3cf94987444532b614d29eb33e-tb4.jpg"
+  },
+  {
+    "name": "V (BTS)",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/2/4/c/124cbc4baad7a025d14dc9a4189aafab-tb4.jpg"
+  },
+  {
+    "name": "Vulgo FK",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/3/d/f/73dfa5ab03561b0a68d4661bf670742c-tb4.jpg"
+  },
+  {
+    "name": "Vida Reluz",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/3/a/a/83aa99d50bbffb3e1e724b5b76f32a36-tb4.jpg"
+  },
+  {
+    "name": "Vocal Livre",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/2/9/7/52979c1ec54aaf5204a13c14d826526f-tb4.jpg"
+  },
+  {
+    "name": "Vintage Culture",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/a/6/0/6a6060b9d5a86e5a5daf582bfeacd3e9-tb4.jpg"
+  },
+  {
+    "name": "VMZ",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/9/9/6/8996caa5bb6fd86d33e84707dcb4e4fe-tb4.jpg"
+  },
+  {
+    "name": "Vencedores Por Cristo",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/6/c/f/66cfdf44025c09f390eaa4dd5ad25b22-tb4.jpg"
+  },
+  {
+    "name": "Vanessa da Mata",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/9/d/d/39dd1ae34aea31aea1c7557980b6c4a7-tb4.jpg"
+  },
+  {
+    "name": "Vit\u00f3ria Souza",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/2/6/d/026dac68c293991a2de4d6a09b9a377b-tb4.jpg"
+  },
+  {
+    "name": "Vance Joy",
+    "gender": "Folk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/a/a/2/daa2aba70ede191247c9688901f4534e-tb4.jpg"
+  },
+  {
+    "name": "Victorino Silva",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/f/2/2/cf22ccec584ad0ddd74d9204cae86dae-tb4.jpg"
+  },
+  {
+    "name": "Vitinho",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/7/9/4/b794e101a10e3b237958323279556baa-tb4.jpg"
+  },
+  {
+    "name": "Violetta",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/4/2/1/4421d49506aa56a43f69d2e68ff76da3-tb4.jpg"
+  },
+  {
+    "name": "VOCALOID",
+    "gender": "J-Pop/J-Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/1/9/a/919a46c407ef730e4bc22fa39cb36d63-tb4.jpg"
+  },
+  {
+    "name": "Vitor Kley",
+    "gender": "Surf Music",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/4/4/3/d443e55b380f2bde1fed2dc56d2fa89a-tb4.jpg"
+  },
+  {
+    "name": "Vitor Fernandes",
+    "gender": "Piseiro",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/2/7/a/327a63678133f8a4a0397f3a1ea28342-tb4.jpg"
+  },
+  {
+    "name": "Van Halen",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/e/2/b/de2b85e203165de7f8e4290098d737d2-tb4.jpg"
+  },
+  {
+    "name": "Vasco da Gama",
+    "gender": "Marchas/Hinos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/d/a/f/2daf628c151c9e8c1e62a97e73115dca-tb4.jpg"
+  },
+  {
+    "name": "The Verve",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/d/9/3/4d9348b2cb13afc9cf903db7e85a9b15-tb4.jpg"
+  },
+  {
+    "name": "Vav\u00e1",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/e/6/2/7e62be9d8e05e89afefd2dd765802999-tb4.jpg"
+  },
+  {
+    "name": "VICTIN",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/2/f/5/52f55cabf4ce8224ea81657caa45777d-tb4.jpg"
+  },
+  {
+    "name": "Vander Lee",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/4/f/5/c4f5aef2bf1c316085d652020378db49-tb4.jpg"
+  },
+  {
+    "name": "Vedo",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/e/5/0/5e508675c627b54ff691330715227db6-tb4.jpg"
+  },
+  {
+    "name": "Vanessa Carlton",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/d/7/1/bd71133f48b9bd4e76f247b27434ce46-tb4.jpg"
+  },
+  {
+    "name": "Valdeci Aguiar",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/0/9/8/6098833004f108a8899b6c5971f99427-tb4.jpg"
+  },
+  {
+    "name": "Voices",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/2/0/a/d20a8bfa7fd4bd25198322a172f6adc8-tb4.jpg"
+  },
+  {
+    "name": "Viva - A Vida \u00c9 Uma Festa",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/7/7/6/47764f4a51134271480a98f5025c117e-tb4.jpg"
+  },
+  {
+    "name": "Verbo Music",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "The Weeknd",
+    "gender": "R&B",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/9/a/1/89a114a2f4a89231c5508efb3b700434-tb4.jpg"
+  },
+  {
+    "name": "Waldeci Braga",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Whitney Houston",
+    "gender": "Soul",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/1/5/8/c158f61c622aec156f3d1a54783578fc-tb4.jpg"
+  },
+  {
+    "name": "Wesley Safad\u00e3o",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/8/e/3/28e3bf3371c930370328d3dfce63fcf2-tb4.jpg"
+  },
+  {
+    "name": "WIU",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/1/8/4/41841a211873b7f4ec39305c0310b83a-tb4.jpg"
+  },
+  {
+    "name": "Wiz Khalifa",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/c/c/5/3cc5b124adc204415917d1cba9323bb1-tb4.jpg"
+  },
+  {
+    "name": "Whitesnake",
+    "gender": "Hard Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/0/5/0/1050df48eaab65cfab3b688056b87cb2-tb4.jpg"
+  },
+  {
+    "name": "Westlife",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/b/b/a/cbba83c4b9c68ad8b59cc2d1385c6db7-tb4.jpg"
+  },
+  {
+    "name": "Walmir Alencar",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/3/5/5/b3551a718b084595fb1492757bd55af9-tb4.jpg"
+  },
+  {
+    "name": "Waldeci Farias",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/1/4/c/214c282d08f73a9e493f17f64507a524-tb4.jpg"
+  },
+  {
+    "name": "Wild (Indie)",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/2/e/e/e2ee82fc6a39d6adeb0683463f7b8c4b-tb4.jpg"
+  },
+  {
+    "name": "Wagner Santos",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/f/c/a/1fca8829638960ab3c10067132f9c729-tb4.jpg"
+  },
+  {
+    "name": "WILLOW",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/9/4/e/194efca4256ba089b24678073a33555d-tb4.jpg"
+  },
+  {
+    "name": "Wagner Roberto",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/c/d/5fcde8a80ee7de68ddb33d192e241a11-tb4.jpg"
+  },
+  {
+    "name": "wave to earth",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/7/b/3/37b3c5ad81ad6012372865fc0feccf70-tb4.jpg"
+  },
+  {
+    "name": "Wilian Nascimento",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/2/5/6/d2567179eafed1a0f9ce386dabcc80ff-tb4.jpg"
+  },
+  {
+    "name": "Wham!",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/7/2/d/b72d3f938b7da055eac0a609cf1a3ca3-tb4.jpg"
+  },
+  {
+    "name": "Wonder Girls",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/6/d/2/a6d22a6fd09b5922524ffa3f95ef7c6d-tb4.jpg"
+  },
+  {
+    "name": "Wando",
+    "gender": "Rom\u00e2ntico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/9/c/1/99c1526032ce0fa964bf8a31119e6b3f-tb4.jpg"
+  },
+  {
+    "name": "Wet Bed Gang",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/8/6/2/88624157745081656c2b523a7e2baa9d-tb4.jpg"
+  },
+  {
+    "name": "The White Buffalo",
+    "gender": "Folk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/8/9/e/089e84f81108317baafd3d6fb07cea3c-tb4.jpg"
+  },
+  {
+    "name": "The White Stripes",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/0/7/0/b0701b8f24e04a95b5b2ce4655269623-tb4.jpg"
+  },
+  {
+    "name": "The Who",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/7/b/4/67b42720f1ea22db72e7edf89783e335-tb4.jpg"
+  },
+  {
+    "name": "Within Temptation",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/e/1/1/7e11067f99b18889ecc46ae48ad9742d-tb4.jpg"
+  },
+  {
+    "name": "Whindersson Nunes ",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/3/b/e/f3be4387240f1d248d99fd0a381553e8-tb4.jpg"
+  },
+  {
+    "name": "Wallows",
+    "gender": "Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/5/1/3/15130401ba0036e071df1c77ab939c8c-tb4.jpg"
+  },
+  {
+    "name": "Wanessa Camargo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/4/6/5/a465e5f8e51bf6d7578f0f75e0e90aee-tb4.jpg"
+  },
+  {
+    "name": "The Walters",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/f/8/6/ef86f15acf67b5a1361aea42b9596029-tb4.jpg"
+  },
+  {
+    "name": "Weezer",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/d/4/6/7d46a4dfe73b5d52a2d2600b6a8cf9cb-tb4.jpg"
+  },
+  {
+    "name": "Wilson Paim",
+    "gender": "Regional",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/1/2/f/c12faf183548c198fd78ab40c7720a9f-tb4.jpg"
+  },
+  {
+    "name": "Washington Brasileiro",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/2/1/e/a21e49d43491d58880a4f61575548f48-tb4.jpg"
+  },
+  {
+    "name": "The Wanted",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/d/7/2/fd729e52d2d198f4e3a3dbd7f0e958b0-tb4.jpg"
+  },
+  {
+    "name": "Watch Tower Bible And Tract Society Of PA",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Waldick Soriano",
+    "gender": "Brega",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/6/3/a/763ab302701e93654e567c20cafd3727-tb4.jpg"
+  },
+  {
+    "name": "Weslei Santos",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/c/b/5/bcb5a5b1fa7026796f2fcac6c51336d4-tb4.jpg"
+  },
+  {
+    "name": "Willie Nelson",
+    "gender": "Country",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/1/a/c/51ac7aa0137183edce149196ed04460f-tb4.jpg"
+  },
+  {
+    "name": "XXXTENTACION",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/9/6/6/0966aba7c245e5035bb43e06a4a3c2f1-tb4.jpg"
+  },
+  {
+    "name": "Xam\u00e3",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/8/4/8/3848e7b5f08d5dcf8cbdc59d56f84447-tb4.jpg"
+  },
+  {
+    "name": "Xuxa",
+    "gender": "Infantil",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/a/5/f/2a5f33d0fce6bdca801fe5efc19737e3-tb4.jpg"
+  },
+  {
+    "name": "Xamuel",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/3/f/8/53f877eea674052428314c17947fd7f4-tb4.jpg"
+  },
+  {
+    "name": "Xande de Pilares",
+    "gender": "Pagode",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/0/1/e/f01e939f5ebdea5c99246b62d6035071-tb4.jpg"
+  },
+  {
+    "name": "Xavi (MX)",
+    "gender": "Corridos",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/8/c/7/f8c737e8adbfca0d93282bc6a53857e2-tb4.jpg"
+  },
+  {
+    "name": "Xand Avi\u00e3o",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/a/c/f/9acfe2978d099271c57248fea365fcf0-tb4.jpg"
+  },
+  {
+    "name": "XG",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/f/9/6/9f96286c29cffd6c608470dd2fc73ac0-tb4.jpg"
+  },
+  {
+    "name": "Xavier Rudd",
+    "gender": "Surf Music",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/a/3/7/6a37a7f92d755dd352fd88353647a16b-tb4.jpg"
+  },
+  {
+    "name": "Xutos & Pontap\u00e9s",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/4/2/4/4424142e0e493d09c480529b16917916-tb4.jpg"
+  },
+  {
+    "name": "X Ambassadors",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/0/e/f/60ef6550aa4afbdb8ee4ae6de40d33c3-tb4.jpg"
+  },
+  {
+    "name": "The XX",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/f/6/f/cf6f306d31c3a075ee5c3b1542f5e1fb-tb4.jpg"
+  },
+  {
+    "name": "Xavi",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Xdinary Heroes",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/e/f/0/fef0c15b468320a1b5370d2f3f4a25b1-tb4.jpg"
+  },
+  {
+    "name": "Xangai",
+    "gender": "Regional",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/7/0/f/270f5eb8bfaa9747b30c9c9e24938d8e-tb4.jpg"
+  },
+  {
+    "name": "XCalypso",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/d/7/1/5d71e8380f5758a33b5e241d084ee13d-tb4.jpg"
+  },
+  {
+    "name": "X Japan",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/1/b/9/41b96a08f4279b3bafb7093da4f3e9e2-tb4.jpg"
+  },
+  {
+    "name": "Xiao Zhan",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/d/4/3/6d43bac6b0a70b4c5362124baf216eeb-tb4.jpg"
+  },
+  {
+    "name": "Xir\u00fa Missioneiro",
+    "gender": "Regional",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/0/7/1/b071f6b168d9f628d5cc1288327f12e1-tb4.jpg"
+  },
+  {
+    "name": "Xandria",
+    "gender": "Heavy Metal",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/d/a/7/eda75ca1b9350f758f1383fbd4143a7e-tb4.jpg"
+  },
+  {
+    "name": "xcho",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Xote Santo",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Xir\u00ea",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/f/a/d/6fad0177f9b7108b1630faddcb837a02-tb4.jpg"
+  },
+  {
+    "name": "Xuxu Bower",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/0/1/2/901255e88126254d5298647aa9398ca8-tb4.jpg"
+  },
+  {
+    "name": "Xis",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/0/d/9/20d90098258e75e1911aa22f5775e496-tb4.jpg"
+  },
+  {
+    "name": "xikers",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/a/0/8/0a08a1275c586be2a49bbd3d1ce7f999-tb4.jpg"
+  },
+  {
+    "name": "X\u00eania Fran\u00e7a",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/b/7/b/2/b7b259f8a456f742fe747aa168a59441-tb4.jpg"
+  },
+  {
+    "name": "Xanddy Harmonia",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Xzibit",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/c/6/2/7c626c32e173e5392410011a83a6a5fc-tb4.jpg"
+  },
+  {
+    "name": "Xote da Terra",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Xano cigano",
+    "gender": "Disco",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "X1 (Rap)",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Xico Bizerra",
+    "gender": "Ax\u00e9",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/9/f/1/d9f1b774b31f3b6088b44e0dbcf9fca8-tb4.jpg"
+  },
+  {
+    "name": "Xam\u00e3 & Estudante",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "XYL\u00d8",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/9/1/b/091b636c09f96f642ee75333c4e3ce7a-tb4.jpg"
+  },
+  {
+    "name": "Xavi The Destroyer",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Yam\u00ea (FR)",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/5/2/8/3528c3b9146dda00ec2572cafbe6eff8-tb4.jpg"
+  },
+  {
+    "name": "Yung Lixo (Yun Li)",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/1/e/3/61e379db2b7759a9f896b9307eee8472-tb4.jpg"
+  },
+  {
+    "name": "Young The Giant",
+    "gender": "Indie",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/0/9/b/809b723a73ac17934699f4e745f86d9e-tb4.jpg"
+  },
+  {
+    "name": "Yunk Vino",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/a/6/a/6a6a0a2f7f5d8c369fed483b202a6f75-tb4.jpg"
+  },
+  {
+    "name": "YNW Melly",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/4/0/e/540ec83d8e768107d78a9a22231feeaa-tb4.jpg"
+  },
+  {
+    "name": "YOASOBI",
+    "gender": "J-Pop/J-Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/6/7/2/76723b5c17f97165987c0f111332e60f-tb4.jpg"
+  },
+  {
+    "name": "Yu Yu Hakusho",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/f/7/a/0f7af73990ea0054dd43e5cd918aaac5-tb4.jpg"
+  },
+  {
+    "name": "Yago OPr\u00f3prio",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/8/7/b/587b1f2a6a9ce83804e9ed0ac000f3dc-tb4.jpg"
+  },
+  {
+    "name": "YoungBoy Never Broke Again (NBA YoungBoy)",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/8/a/b/a8ab942e1703e3a2fcf1845b9af3aa1d-tb4.jpg"
+  },
+  {
+    "name": "Young Thug",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/e/c/c/2ecc61d1d640083db2c957d76632c48a-tb4.jpg"
+  },
+  {
+    "name": "Yondax",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Yes",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/6/3/a/a63a455a81411ed1397bf1d75157dbff-tb4.jpg"
+  },
+  {
+    "name": "YUNGBLUD",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/c/e/9/3ce99a663a26adc6543f74206da1b7ce-tb4.jpg"
+  },
+  {
+    "name": "Yoari",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Y2K",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/b/0/9/eb092750cad7870da95b01214494340f-tb4.jpg"
+  },
+  {
+    "name": "Years & Years",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/3/1/e/c31ec68ddae2529283ad2069ec9daaea-tb4.jpg"
+  },
+  {
+    "name": "Yuridia Gaxiola",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/d/c/e/ddcedc431246f39e6eaf238e5cd28cf7-tb4.jpg"
+  },
+  {
+    "name": "Yasmin Santos",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/9/3/8/8/9388d00c56c2cdec9017ea72a729bbf2-tb4.jpg"
+  },
+  {
+    "name": "Yahoo",
+    "gender": "Rom\u00e2ntico",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/5/3/2/f5324636cd4ca847f3e3ed464331cc24-tb4.jpg"
+  },
+  {
+    "name": "Yarichin Bitch Club",
+    "gender": "J-Pop/J-Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/7/8/6/e786827b1c224d3c92fbe87aefe7e22e-tb4.jpg"
+  },
+  {
+    "name": "Yng Lvcas",
+    "gender": "Reggaeton",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/b/1/c/1b1cee44e35d4f5c437529ec641136aa-tb4.jpg"
+  },
+  {
+    "name": "Yui",
+    "gender": "Pop Rock",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/4/1/7/741798ab71231a8638d30edd5f672b1a-tb4.jpg"
+  },
+  {
+    "name": "Yandel",
+    "gender": "Reggaeton",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/c/1/a/8c1a7790a72bb8799f3696f71ab3e344-tb4.jpg"
+  },
+  {
+    "name": "YK Osiris",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/c/f/8/2cf823a27fea5e2fec46f241bc036605-tb4.jpg"
+  },
+  {
+    "name": "Yung Lean",
+    "gender": "Hip Hop/Rap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/4/2/4/d42475e484987cff25a218e674829c9f-tb4.jpg"
+  },
+  {
+    "name": "Yasmin Verissimo",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/9/1/7/1917ba38dbb8b607704fe2fe164b39a6-tb4.jpg"
+  },
+  {
+    "name": "Yung Buda",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/c/3/f/6c3fe35ee3db1bdbc712f9f30daba878-tb4.jpg"
+  },
+  {
+    "name": "Yola Semedo",
+    "gender": "World Music",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/4/2/6/34260f509fa5619d4c50795ecc9cb6b8-tb4.jpg"
+  },
+  {
+    "name": "Yiyo Sarante",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Yeah Yeah Yeahs",
+    "gender": "Rock Alternativo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/4/0/5/34058dad53833e546552e4095ab4f4e0-tb4.jpg"
+  },
+  {
+    "name": "Yakuza Ost",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/8/a/1/28a1a6eb23515b63ad023b0672ba2ddd-tb4.jpg"
+  },
+  {
+    "name": "Yasmine (Hilde Rens)",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  },
+  {
+    "name": "Yo\u00f1lu",
+    "gender": "Folk",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/3/5/1/a3515f88e03b5be0ebcc3838f38c28f9-tb4.jpg"
+  },
+  {
+    "name": "Yiruma",
+    "gender": "Instrumental",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/e/d/1/0ed18cacb812623349955b73717f154c-tb4.jpg"
+  },
+  {
+    "name": "Yot Club",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/4/1/0/641032da87ff9dddf701ccaed4cc8e81-tb4.jpg"
+  },
+  {
+    "name": "Young Miko",
+    "gender": "Trap",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/6/c/6/16c642c2d0fda9c4248b276badcb03e4-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Ramalho",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/f/3/9/6f39e12f408ea757ac2d6950cdec7e2c-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Neto e Cristiano",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/2/0/8/f2086460a08ec4b4d133c023a5cc1969-tb4.jpg"
+  },
+  {
+    "name": "Zez\u00e9 Di Camargo & Luciano",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/d/c/3/7dc3c236f6724285db7d7e34e50bb794-tb4.jpg"
+  },
+  {
+    "name": "Zeca Pagodinho",
+    "gender": "Samba",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/4/f/e/4/4fe4d7b54f96943d59092dffaef467ac-tb4.jpg"
+  },
+  {
+    "name": "ZAYN",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/1/c/0/01c06034d6d89bb4b02395cfddf63dce-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Vaqueiro",
+    "gender": "Piseiro",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/2/3/5/a235028a5a3f5fd2b2515b72ee1a3a7b-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Felipe",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/4/6/a/246a811a50cbace6412c6f88e51d8317-tb4.jpg"
+  },
+  {
+    "name": "Zez\u00e9 Di Camargo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/d/1/1/ad11b4ab663e57dc407fb95274781912-tb4.jpg"
+  },
+  {
+    "name": "Zezo",
+    "gender": "Forr\u00f3",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/f/7/b/af7b6d4e4bb6baf08744c2bef6fae497-tb4.jpg"
+  },
+  {
+    "name": "Zeca Baleiro",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/1/6/2/f162cdbcc899169ace6a60022b46baa0-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Geraldo",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/b/6/6/6b66ab1fcb9944ab31cbda875edd68d0-tb4.jpg"
+  },
+  {
+    "name": "Zaz",
+    "gender": "Jazz",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/c/b/1/2cb1ddf67c73cea0201ad0148e5d6e63-tb4.jpg"
+  },
+  {
+    "name": "Zara Larsson",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/7/c/3/f7c3efd3995adfd58ef83af1bf90fa88-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Vicente",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/f/4/a/5f4ab4ccac7b0ab8201fa0275e9c1036-tb4.jpg"
+  },
+  {
+    "name": "Zico",
+    "gender": "K-Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/f/1/1/af11b3677d71c9b7dc3e76fcafa8428f-tb4.jpg"
+  },
+  {
+    "name": "Zoe Wees",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/a/b/6/1ab6ace59c9b317dc71feda12d4a4a34-tb4.jpg"
+  },
+  {
+    "name": "Zeca Afonso",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/5/e/e/35eec27d0458cfc56cac94b944fe9720-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Marco e Adriano",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/a/f/6/eaf65755978a5be0668b3eb46e0feecd-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Ricardo e Thiago",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/b/0/0/eb00a94ebacce1257b9f5729b23ff27f-tb4.jpg"
+  },
+  {
+    "name": "Zizi Possi",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/a/8/9/fa89cfbca59781e14df2fef5bf4fcf2e-tb4.jpg"
+  },
+  {
+    "name": "Zeeba",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/d/b/f/2dbfe81285af2bda43a4c91c8b1d5803-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9lia Duncan",
+    "gender": "MPB",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/5/d/0/2/5d02190f2ac548fd7eff010980cfe909-tb4.jpg"
+  },
+  {
+    "name": "Ziza Fernandes",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/c/6/2/2/c622c9ac9924e0265dc57395d3549321-tb4.jpg"
+  },
+  {
+    "name": "Zedd",
+    "gender": "Eletr\u00f4nica",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/8/e/3/18e3e1084c4737d93d7d1c9d1e54704b-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Henrique e Gabriel",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/2/c/a/1/2ca1b64224293aad0afca58b13f6ca09-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Cantor",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/f/b/f/afbfb38e7a7d1f07c858d1abc75cb7d1-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Carlos",
+    "gender": "Gospel/Religioso",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/b/3/c/db3c67ca878337071a1b95e492ef0646-tb4.jpg"
+  },
+  {
+    "name": "ZZ Top",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/e/a/0/1/ea01c58e6f57eb8cfe9e31b05bde6d8e-tb4.jpg"
+  },
+  {
+    "name": "Ziggy Marley",
+    "gender": "Reggae",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/4/0/e/d40e8dea64b8039bcad53f1c8af3019b-tb4.jpg"
+  },
+  {
+    "name": "Zach Bryan",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/6/0/8/c/608c70c0bd3fa410a4a73c9883611b5b-tb4.jpg"
+  },
+  {
+    "name": "Zendaya",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/a/9/4/d/a94dc7c6ffe9a11acb8462396ee79543-tb4.jpg"
+  },
+  {
+    "name": "Zilo e Zalo",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/0/3/d/6/03d681c77d9d05c7fe5adc19586dd668-tb4.jpg"
+  },
+  {
+    "name": "Zimbra",
+    "gender": "Rock and Roll",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/0/5/7/3057ae5ada7d4711911a825543664bd7-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 Fortuna & Pitangueira",
+    "gender": "Sertanejo",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/7/8/8/7/788735c2c9f110a0bba4a4cc22d7215f-tb4.jpg"
+  },
+  {
+    "name": "ZeRO (iamzerobadass)",
+    "gender": "Pop",
+    "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/3/6/4/3/364387fe295a8ceda38e64dad0556c4a-tb4.jpg"
+  },
+  {
+    "name": "Z\u00e9 da Timba e Z\u00e9 Latinha",
+    "gender": "",
+    "img": "https://akamai.sscdn.co/letras/desktop/static/img/ic_placeholder_artist.svg?v=2"
+  }
+]

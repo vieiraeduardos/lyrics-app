@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Lyrics App - Escolha seu artista</title>
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+    <link rel="stylesheet" type="text/css" href="./search.css">
+</head>
+
+<body>
+    <header>
+        <div class="profile-container">
+            <img src="profile.png" alt="Foto de Perfil">
+        </div>
+        <a href="index.html">Início</a>
+        <a href="search.html">Artistas</a>
+        <div class="buttons-container">
+            <button class="icon-button" id="toggle-dark-mode">
+                <img src="dark-mode-icon.png" alt="Dark Mode">
+            </button>
+        </div>
+    </header>
+    <section id="search-container">
+        <h1>Escolha um artista</h1>
+        <input type="text" id="search-box" placeholder="Buscar artistas...">
+    </section>
+
+    <div id="artist-list"></div>
+
+    <script src="search.js"></script>
+    <script src="renderer.js"></script>
+</body>
+</body>
+
+</html>

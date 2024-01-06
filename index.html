@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Home</title>
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+  <link rel="stylesheet" type="text/css" href="./styles.css">
+</head>
+
+<body>
+  <header>
+    <div class="profile-container">
+      <img src="profile.png" alt="Foto de Perfil">
+    </div>
+    <a href="index.html">Início</a>
+    <a href="search.html">Artistas</a>
+    <div class="buttons-container">
+      <button class="icon-button" id="toggle-dark-mode">
+        <img src="dark-mode-icon.png" alt="Dark Mode">
+      </button>
+    </div>
+  </header>
+
+  <section id="container">
+    <div class="lyrics-section">
+      <div class="lyrics-container">
+          <p id="lyrics-display">Frase da Música Aqui</p>
+          <div class="controls">
+              <input type="text" id="user-input" placeholder="Digite a Próxima Frase">
+          </div>
+          <div class="controls">
+              <button onclick="nextLyric()">Próxima</button>
+              <button onclick="prevLyric()">Anterior</button>
+          </div>
+          <div class="timeline" id="timeline"></div>
+      </div>
+  </div>
+  </section>
+
+  <script src="script.js"></script>
+  <script src="renderer.js"></script>
+</body>
+</body>
+
+</html>
